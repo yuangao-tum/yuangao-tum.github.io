@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuan Gao"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              :  "Technical University of Munich"
   location         : "Munich, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=LXhDmFIAAAAJ&hl=de"
-  email            :
+  email            : yuean.gao@tum.de
   researchgate     : "https://www.researchgate.net/profile/Yuan-Gao-113"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yuan-gao-b693181b3/"
+  linkedin         : "https://www.linkedin.com/in/yuan-gao-tum/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
