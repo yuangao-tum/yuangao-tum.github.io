@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yuan Gao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello!  I will be pursuing a Ph.D. degree in the  [Professorship of Autonomous Vehicle Systems](https://www.mos.ed.tum.de/en/avs/home/) at the School of Engineering and Design, Technical University of Munich, Germany, under the supervision of Professor [Johannes Betz](https://www.professoren.tum.de/en/betz-johannes). I have recently graduated with the double Master degree in Mechatronics and Robotics with high distinction, as well as Development, Production, and Management in Mechanical Engineering with distinction from the same university in 2023.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+During my master's studies, I conducted my research at the Chair of Information-oriented Control under the supervision of Dr.[Junjie Jiao](https://junjiejiao.github.io/) and Professor [Sandra Hirche](https://www.professoren.tum.de/en/hirche-sandra), where I completed my master's thesis. Prior to that, I worked as a student research assistant and wrote my term's thesis at the Institute of Automotive Technology under the guidance of Professor [Markus Lienkamp](https://www.professoren.tum.de/en/lienkamp-markus).
+
+I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation with Excellent Graduate honors, School of Mechanical Engineering from [Hefei University of Technology](https://jxxysme.hfut.edu.cn/),china in 2017.
 
 A data-driven personal website
 ======
