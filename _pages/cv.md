@@ -30,9 +30,9 @@ Work experience
 * Mar. 2022 - Aug. 2022: Student Research Assistant, [Chair of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/home/)
 * May. 2021 - Dec. 2021: Term’s Thesis, [Chair of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/home/)
   
-Language Skills [Common European Framework of Reference for Languages](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
+Language Skills
 ======
-* Chinese C2/ German C1/ English B2
+* Chinese C2/ German C1/ English B2 [International language standards](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
   
 Computer Skills
 ======
