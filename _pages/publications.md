@@ -12,7 +12,7 @@ Journal paper
 * [H2 suboptimal containment control of homogeneous and heterogeneous multi-agent systems](https://arxiv.org/abs/2311.11337) IEEE TCNS
   
   Yuan Gao*, [Junjie Jiao](https://junjiejiao.github.io/), [Zhongkui Li](https://en.coe.pku.edu.cn/faculty/facultyaz/891261.htm), [Sandra Hirche](https://www.professoren.tum.de/en/hirche-sandra) (Under review) || [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:Y0EJ5vYNDzsJ:scholar.google.com/&output=citation&scisdr=ClE6n-X0EM676hoWPs8:AFWwaeYAAAAAZbkQJs9Cj8as2lWMtAiJ7IrTNVU&scisig=AFWwaeYAAAAAZbkQJvvByCF3jRHr-3Yq6znVlLA&scisf=4&ct=citation&cd=-1&hl=de) / [VollText](https://arxiv.org/pdf/2311.11337.pdf)
-  <video width="300" height="405" loop="loop" autoplay="autoplay" src="https://github.com/yuan2023-control/TCNS/assets/89707029/242db174-c7fc-44a9-85a5-312d2a64cce7"></video>
+<video width="300" height="405" loop="loop" autoplay="autoplay" src="https://github.com/yuan2023-control/TCNS/assets/89707029/242db174-c7fc-44a9-85a5-312d2a64cce7"></video>
 <video width="300" height="405" loop="loop" autoplay="autoplay" src="https://github.com/yuan2023-control/TCNS/assets/89707029/99b2dce6-8c4b-41d1-9fbf-24040f4ce4b8"></video>
 <video width="300" height="405" loop="loop" autoplay="autoplay" src="https://github.com/yuan2023-control/TCNS/assets/89707029/5b8bc94b-07cb-47aa-9931-743e532418e4"></video>
 
