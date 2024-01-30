@@ -16,11 +16,11 @@ Education
 * 10/2019 – 02/2023 [Technical University of Munich](https://www.tum.de/en/)
   * M.Sc. Mechatronics and Robotics, GPA: 1.2/1.0 (High distinction)
 * 10/2018 – 09/2019 [Karlsruhe Institute of Technology](https://www.kit.edu/english/)
-  * Mechatronics and information technology, GPA: 1.8/1.0 
+  * Master: Mechatronics and information technology, GPA: 1.8/1.0 
 * 09/2013 – 06/2017 [Hefei University of Technology](https://jxxysme.hfut.edu.cn/)
   * B.Sc. Mechanical Design, Manufacture and Automation, GPA: 3.74/4.3 (Ranking: 3/384, with honors)
 * 02/2015 – 06/2015 [Taiwan I-Shou University](https://oica.ishouuniversity.com/)
-  * Mechanical and automation engineering (Exchange student), GPA: 4.0/4.0
+  * Bachelor: Mechanical and automation engineering (Exchange student), GPA: 4.0/4.0
 
 Work experience
 ======
@@ -30,7 +30,7 @@ Work experience
 * Mar. 2022 - Aug. 2022: Student Research Assistant, [Chair of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/home/)
 * May. 2021 - Dec. 2021: Term’s Thesis, [Chair of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/home/)
   
-Language Skills
+Language Skills [Common European Framework of Reference for Languages](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
 ======
 * Chinese C2/ German C1/ English B2
   
