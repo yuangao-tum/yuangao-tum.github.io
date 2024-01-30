@@ -19,7 +19,7 @@ Education
   * Master: Mechatronics and information technology, GPA: 1.8/1.0 
 * 09/2013 – 06/2017 [Hefei University of Technology](https://jxxysme.hfut.edu.cn/)
   * B.Sc. Mechanical Design, Manufacture and Automation, GPA: 3.74/4.3 (Ranking: 3/384, with honors)
-* 02/2015 – 06/2015 [Taiwan I-Shou University](https://oica.ishouuniversity.com/)
+* 02/2015 – 06/2015 [Taiwan I-Shou University](https://www2.isu.edu.tw/en1/)
   * Bachelor: Mechanical and automation engineering (Exchange student), GPA: 4.0/4.0
 
 Work experience
