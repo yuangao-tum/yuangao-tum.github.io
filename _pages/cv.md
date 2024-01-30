@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* 10/2021 – 08/2023 [Technical University of Munich](https://www.tum.de/en/)
+* Oct. 2021 – Aug. 2023 [Technical University of Munich](https://www.tum.de/en/)
   * M.Sc. Development, Production and Management in Mechanical Engineer, GPA: 1.5/1.0 (Distinction)
-* 10/2019 – 02/2023 [Technical University of Munich](https://www.tum.de/en/)
+* Oct. 2019 – Feb. 2023 [Technical University of Munich](https://www.tum.de/en/)
   * M.Sc. Mechatronics and Robotics, GPA: 1.2/1.0 (High distinction)
-* 10/2018 – 09/2019 [Karlsruhe Institute of Technology](https://www.kit.edu/english/)
+* Oct. 2018 – Sep. 2019 [Karlsruhe Institute of Technology](https://www.kit.edu/english/)
   * Master: Mechatronics and information technology, GPA: 1.8/1.0 
-* 09/2013 – 06/2017 [Hefei University of Technology](https://jxxysme.hfut.edu.cn/)
+* Sep. 2013 – Jun. 2017 [Hefei University of Technology](https://jxxysme.hfut.edu.cn/)
   * B.Sc. Mechanical Design, Manufacture and Automation, GPA: 3.74/4.3 (Ranking: 3/384, with honors)
-* 02/2015 – 06/2015 [Taiwan I-Shou University](https://www2.isu.edu.tw/en1/)
+* Feb. 2015 – jun. 2015 [Taiwan I-Shou University](https://www2.isu.edu.tw/en1/)
   * Bachelor: Mechanical and automation engineering (Exchange student), GPA: 4.0/4.0
 
 Work experience
