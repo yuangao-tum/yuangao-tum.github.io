@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan Gao/personal homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Yuan Gao"
 description              : &description "personal description"
