@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 10/2021 – 08/2023 Technical University of Munich
+ M.Sc. Development, Production and Management in Mechanical Engineer, GPA: 1.5/1.0 (Distinction)
+* 10/2019 – 02/2023 Technical University of Munich
+ M.Sc. Mechatronics and Robotics, GPA: 1.2/1.0 (High distinction)
+* 10/2018 – 09/2019 Karlsruhe Institute of Technology
+ M.Sc. Mechatronics and information technology, GPA: 1.8/1.0 
+* 09/2013 – 06/2017 Hefei University of Technology
+ B.Sc. Mechanical Design, Manufacture and Automation, GPA: 3.74/4.3 (Ranking: 3/384, with honors)
+* 02/2015 – 06/2015 Taiwan I-Shou University
+ B.Sc. Mechanical and automation engineering, GPA: 4.0/4.0
 
 Work experience
 ======
