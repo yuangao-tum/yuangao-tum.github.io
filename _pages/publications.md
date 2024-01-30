@@ -25,7 +25,7 @@ Conference paper
   
   IFAC-WC 2023, Yuan Gao*, [Junjie Jiao](https://junjiejiao.github.io/), [Sandra Hirche](https://www.professoren.tum.de/en/hirche-sandra)
   
-  [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:9dSbbrQNcWsJ:scholar.google.com/&output=citation&scisdr=ClE6n-X0EM676hoboG0:AFWwaeYAAAAAZbkduG29z0ihm9CJbAQHWboXQsM&scisig=AFWwaeYAAAAAZbkduE76MOPRg1Rjx457_jcAIEY&scisf=4&ct=citation&cd=-1&hl=de&scfhb=1)/[VollText](https://mediatum.ub.tum.de/doc/1717850/document.pdf)/[Slides](https://github.com/yuan2023-control/IFAC2023/blob/main/ifac2023.pdf)
+  [BitTex](https://scholar.googleusercontent.com/scholar.bib?q=info:9dSbbrQNcWsJ:scholar.google.com/&output=citation&scisdr=ClE6n-X0EM676hoboG0:AFWwaeYAAAAAZbkduG29z0ihm9CJbAQHWboXQsM&scisig=AFWwaeYAAAAAZbkduE76MOPRg1Rjx457_jcAIEY&scisf=4&ct=citation&cd=-1&hl=de&scfhb=1)/[VollText](https://mediatum.ub.tum.de/doc/1717850/document.pdf)/[Presentation](https://github.com/yuan2023-control/IFAC2023/blob/main/ifac2023.pdf)
 
 <video width="320" height="405" loop="loop" autoplay="autoplay" src="https://github.com/Yuan28082021/IFAC2023/assets/89707029/f765e8f5-73d3-4862-8e53-e9c7976a900e"></video>
 
