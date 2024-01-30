@@ -17,7 +17,7 @@ Education
   * M.Sc. Mechatronics and Robotics, GPA: 1.2/1.0 (High distinction)
 * 10/2018 – 09/2019 [Karlsruhe Institute of Technology](https://www.kit.edu/english/)
   *  M.Sc. Mechatronics and information technology, GPA: 1.8/1.0 
-* 09/2013 – 06/2017 [Hefei University of Technology](https://jxxy.hfut.edu.cn/)
+* 09/2013 – 06/2017 [Hefei University of Technology](https://jxxysme.hfut.edu.cn/)
   * B.Sc. Mechanical Design, Manufacture and Automation, GPA: 3.74/4.3 (Ranking: 3/384, with honors)
 * 02/2015 – 06/2015 [Taiwan I-Shou University](https://oica.ishouuniversity.com/)
   * B.Sc. Mechanical and automation engineering, GPA: 4.0/4.0
