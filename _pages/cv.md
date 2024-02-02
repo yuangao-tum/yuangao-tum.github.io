@@ -18,7 +18,7 @@ Education
 * Oct. 2018 – Sep. 2019 [Karlsruhe Institute of Technology](https://www.kit.edu/english/)
   * Master: Mechatronics and information technology, GPA: 1.8/1.0 
 * Sep. 2013 – Jun. 2017 [Hefei University of Technology](https://jxxysme.hfut.edu.cn/)
-  * B.Sc. Mechanical Design, Manufacture and Automation, GPA: 3.74/4.3 (Ranking: 3/384, with honors)
+  * B.Eng. Mechanical Design, Manufacture and Automation, GPA: 3.74/4.3 (Ranking: 3/384, with honors)
 * Feb. 2015 – jun. 2015 [Taiwan I-Shou University](https://www2.isu.edu.tw/en1/)
   * Bachelor: Mechanical and automation engineering (Exchange student), GPA: 4.0/4.0
 
