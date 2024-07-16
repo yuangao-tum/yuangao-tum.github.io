@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Jul. 2023 – Oct. 2023: Research Assistant, [Chair of Information-oriented Control](https://www.ce.cit.tum.de/en/itr/home/)
+* Jul. 2023 – Nov. 2023: Research Assistant, [Chair of Information-oriented Control](https://www.ce.cit.tum.de/en/itr/home/)
 * Feb. 2023 – Jun. 2023: Internship, [ITK Engineering, Product area healthcare](https://www.itk-engineering.de/en/healthcare/medical-robotics/)
 * May. 2022 – Dec. 2022: Master’s Thesis, [Chair of Information-oriented Control](https://www.ce.cit.tum.de/en/itr/home/)
 * Mar. 2022 - Aug. 2022: Student Research Assistant, [Chair of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/main-research/automated-driving/driving-simulator/)
