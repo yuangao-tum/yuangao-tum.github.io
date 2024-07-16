@@ -32,7 +32,7 @@ Work experience
   
 Language Skills
 ======
-* Chinese C2/ German C1/ English B2 ([Common Reference Levels](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages))
+* Chinese C2/ German C1: DSH 2/ English C1: IELTS 7.0 ([Common Reference Levels](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages))
   
 Computer Skills
 ======
