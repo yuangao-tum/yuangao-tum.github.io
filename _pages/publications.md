@@ -14,9 +14,9 @@ author_profile: true
 - [Full Text (PDF)](https://arxiv.org/pdf/2311.11337.pdf)
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <video width="250" height="340" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/242db174-c7fc-44a9-85a5-312d2a64cce7"></video>
-  <video width="250" height="340" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/99b2dce6-8c4b-41d1-9fbf-24040f4ce4b8"></video>
-  <video width="250" height="340" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/5b8bc94b-07cb-47aa-9931-743e532418e4"></video>
+  <video width="200" height="250" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/242db174-c7fc-44a9-85a5-312d2a64cce7"></video>
+  <video width="200" height="250" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/99b2dce6-8c4b-41d1-9fbf-24040f4ce4b8"></video>
+  <video width="200" height="250" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/5b8bc94b-07cb-47aa-9931-743e532418e4"></video>
 </div>
 
 ---
@@ -24,7 +24,7 @@ author_profile: true
 ## Conference Papers
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
-  <video width="150" height="200" loop autoplay src="https://github.com/Yuan28082021/IFAC2023/assets/89707029/f765e8f5-73d3-4862-8e53-e9c7976a900e"></video>
+  <video width="200" height="250" loop autoplay src="https://github.com/Yuan28082021/IFAC2023/assets/89707029/f765e8f5-73d3-4862-8e53-e9c7976a900e"></video>
   <div>
     <h4 style="margin: 0;"><a href="https://www.sciencedirect.com/science/article/pii/S2405896323017548">H2 Suboptimal Leader-Follower Consensus Control of Multi-Agent Systems</a></h4>
     <p style="margin: 5px 0; font-style: italic;">IFAC World Congress 2023</p>
@@ -38,7 +38,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
-  <video width="150" height="200" loop autoplay src="https://github.com/Yuan28082021/ACC2023/assets/89707029/6e68e9ea-902a-4be2-ba78-b21cdf417b1b"></video>
+  <video width="200" height="250" loop autoplay src="https://github.com/Yuan28082021/ACC2023/assets/89707029/6e68e9ea-902a-4be2-ba78-b21cdf417b1b"></video>
   <div>
     <h4 style="margin: 0;"><a href="https://ieeexplore.ieee.org/abstract/document/10156193">H2 Suboptimal Containment Control of Multi-Agent Systems</a></h4>
     <p style="margin: 5px 0; font-style: italic;">American Control Conference (ACC) 2023</p>
