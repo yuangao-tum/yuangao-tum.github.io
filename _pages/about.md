@@ -14,6 +14,6 @@ During my master's studies, I conducted my research at the [Chair of Information
 I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation with Excellent Graduate honors at School of Mechanical Engineering, [Hefei University of Technology](https://jxxysme.hfut.edu.cn/), China in 2017.
 
 ## Past Visitors
-<div id="clustrmaps-widget">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TrLTQSJmBVlPm0A9ruy0laZVCy65wNNQiZPBYfpUFHU&cl=ffffff&w=a"></script>
+<div style="width: 300px; height: 200px; overflow: hidden;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TrLTQSJmBVlPm0A9ruy0laZVCy65wNNQiZPBYfpUFHU&cl=ffffff&w=a"></script>
 </div>
