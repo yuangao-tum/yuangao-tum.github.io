@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+* **Oct. 2024 – Now**  
+  [Technical University of Munich](https://www.tum.de/en/)  
+  **Phd Student at TUM School of Engineering and Design (Mechanical Engineering)**  
+
+  
 * **Oct. 2021 – Aug. 2023**  
   [Technical University of Munich](https://www.tum.de/en/)  
   **M.Sc. Development, Production, and Management in Mechanical Engineering**  
