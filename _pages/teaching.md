@@ -13,7 +13,7 @@ author_profile: true
   - Lecture 7: Planning I: Global Planning
 ![image](https://github.com/user-attachments/assets/3bf773d7-021c-4fbf-9d6d-fa23c3abccc2)
 
-
+ December 2024: [Onboarding Program](https://support.moodle.tum.de/course/info.php?id=105458&lang=en)  **CERTIFICATE OF ATTENDANCE _Elective Module: Designing Courses_**
 ## Tutor
 - **WS 2024**: Practical Course [F1TENTH: Autonomous Driving Hands-on](https://www.mos.ed.tum.de/en/avs/teaching/f1tenth-autonomous-driving-hands-on/) (English)
 
