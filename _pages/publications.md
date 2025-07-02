@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -22,6 +22,20 @@ author_profile: true
 ---
 
 ## Conference Papers
+
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
+  <img width="200" height="350" src="/images/IEEE-ITSC-merged-labeled.gif" alt="IEEE-ITSC-scenarios" />
+  <div>
+    <h4 style="margin: 0;"><a href="https://arxiv.org/abs/2502.02145">From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios</a></h4>
+    <p style="margin: 5px 0; font-style: italic;">IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025</p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Yuan Gao*, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/korbinian-moller/">Korbinian Moller</a>, <a href="https://www.professoren.tum.de/alanwar-amr">Amr Alanwar</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/abs/2502.02145">arXiv</a> | 
+      <a href="https://arxiv.org/pdf/2502.02145.pdf">Full Text (PDF)</a> | 
+      <a href="https://github.com/TUM-AVS/From-Words-to-Collisions">GitHub Repository</a>
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
   <video width="200" height="250" loop autoplay src="https://github.com/Yuan28082021/IFAC2023/assets/89707029/f765e8f5-73d3-4862-8e53-e9c7976a900e"></video>
@@ -52,4 +66,4 @@ author_profile: true
 </div>
 
 
-  
+
