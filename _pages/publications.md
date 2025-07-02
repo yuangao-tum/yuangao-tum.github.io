@@ -24,7 +24,9 @@ author_profile: true
 ## Conference Papers
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
-  <img width="200" height="350" src="/images/IEEE-ITSC-merged-labeled.gif" alt="IEEE-ITSC-scenarios" />
+  <div style="width: 200px;">
+    ![IEEE-ITSC-scenarios](/images/IEEE-ITSC-merged-labeled.gif){: width="200" height="350"}
+  </div>
   <div>
     <h4 style="margin: 0;"><a href="https://arxiv.org/abs/2502.02145">From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios</a></h4>
     <p style="margin: 5px 0; font-style: italic;">IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025</p>
