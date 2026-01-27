@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 ## Journal Papers
+### [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526)  
+*IEEE Open Journal of Intelligent Transportation Systems*  
+**Authors**: Yuan Gao*, [Mattia Piccinini](https://www.mos.ed.tum.de/avs/team/mattia-piccinini/), [Yuchen Zhang](https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/), [Dingrui Wang](https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/), [Korbinian Moller](https://www.mos.ed.tum.de/en/avs/team/korbinian-moller/),[Roberto Brusnicki](https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/), [Baha Zarrouki](https://www.linkedin.com/in/baha-zarrouki/?locale=de_DE), [Alessio Gambi](https://publications.ait.ac.at/en/persons/alessio-gambi/), [Jan Frederik Totz](https://sites.google.com/view/jantotz), [Kai Storms](https://www.linkedin.com/in/kai-storms/?originalSubdomain=de), [Steven Peters](https://www.fzd.tu-darmstadt.de/fzd/team_fzd/team_details_219264.en.jsp), [Andrea Stocco](https://tsigalko18.github.io/), [Bassam Alrifaee](https://www.unibw.de/cas/team/bassam-alrifaee), [Marco Pavone](https://stanfordasl.github.io//people/prof-marco-pavone/), [Johannes Betz](https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/)
+- [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:1HXDxckKEPUJ:scholar.google.com/&output=citation&scisdr=Cn2BXXSrEPDpyb6D6lc:AHkA5jQAAAAAaXiF8leBoJU_FXZW4KyMszdVCrk&scisig=AHkA5jQAAAAAaXiF8nrw6-zRg1I4dgIxKFGRWf8&scisf=4&ct=citation&cd=-1&hl=en)  
+- [Full Text (PDF)](https://arxiv.org/pdf/2506.11526)
+- [GitHub Repository](https://github.com/TUM-AVS/FM-AD-Survey?tab=readme-ov-file)
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img width="200" height="250"
+       src="https://github.com/TUM-AVS/FM-AD-Survey/blob/main/Assets/00_concept_c.png">
+    <img width="200" height="250"
+       src="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/FMs.png">
+    <img width="200" height="250"
+       src="https://github.com/TUM-AVS/FM-AD-Survey/blob/main/Assets/Sec3_Timeline_new.png">
+</div>
 
 ### [H2 Suboptimal Containment Control of Homogeneous and Heterogeneous Multi-Agent Systems](https://arxiv.org/abs/2311.11337)  
 *IEEE Transactions on Control of Network Systems (Under Review)*  
