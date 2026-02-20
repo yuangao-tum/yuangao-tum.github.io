@@ -7,6 +7,7 @@ author_profile: true
 ## Teaching assistant
 - **WS 2025**:
 - Practical Course: [F1TENTH: Autonomous Driving Hands-on](https://www.mos.ed.tum.de/en/avs/teaching/f1tenth-autonomous-driving-hands-on/) (English)
+- Seminar: [Project week: Future Mobility Camp](https://www.mos.ed.tum.de/en/avs/teaching/future-mobility-camp/) (for practical session)
 - **WS 2024**:
 - Seminar: [Project week: Future Mobility Camp](https://www.mos.ed.tum.de/en/avs/teaching/future-mobility-camp/) (for practical session)
 - Practical Course: [F1TENTH: Autonomous Driving Hands-on](https://www.mos.ed.tum.de/en/avs/teaching/f1tenth-autonomous-driving-hands-on/) (English)
