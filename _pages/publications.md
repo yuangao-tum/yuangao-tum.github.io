@@ -14,18 +14,8 @@ author_profile: true
 
 <div class="img-grid">
   <figure>
-    <a href="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/00_concept_c.png" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/00_concept_c.png" alt="Concept overview">
-    </a>
-  </figure>
-  <figure>
     <a href="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/FMs.png" target="_blank" rel="noopener">
       <img src="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/FMs.png" alt="Foundation models taxonomy">
-    </a>
-  </figure>
-  <figure>
-    <a href="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/Sec3_Timeline_new.png" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/Sec3_Timeline_new.png" alt="Timeline">
     </a>
   </figure>
 </div>
