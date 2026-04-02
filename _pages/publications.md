@@ -37,6 +37,20 @@ author_profile: true
 ## Conference Papers
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
+  <img width="200" height="350" src="/images/nurisk-framework.png" alt="NuRisk-framework" />
+  <div>
+    <h4 style="margin: 0;"><a href="https://arxiv.org/abs/2509.25944">NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving</a></h4>
+    <p style="margin: 5px 0; font-style: italic;">IEEE International Conference on Robotics and Automation (ICRA) 2026</p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Yuan Gao*, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/abs/2509.25944">arXiv</a> | 
+      <a href="https://arxiv.org/pdf/2509.25944.pdf">Full Text (PDF)</a> | 
+      <a href="https://anonymous-research-icra2026.github.io/Nurisk/">Project Homepage</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
   <img width="200" height="350" src="/images/IEEE-ITSC-merged-labeled.gif" alt="IEEE-ITSC-scenarios" />
   <div>
     <h4 style="margin: 0;"><a href="https://arxiv.org/abs/2502.02145">From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios</a></h4>
