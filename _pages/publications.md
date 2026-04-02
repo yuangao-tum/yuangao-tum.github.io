@@ -6,30 +6,30 @@ author_profile: true
 ---
 
 ## Journal Papers
-### [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526)  
-*IEEE Open Journal of Intelligent Transportation Systems*  
-**Authors**: Yuan Gao*, [Mattia Piccinini](https://www.mos.ed.tum.de/avs/team/mattia-piccinini/), [Yuchen Zhang](https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/), [Dingrui Wang](https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/), [Korbinian Moller](https://www.mos.ed.tum.de/en/avs/team/korbinian-moller/),[Roberto Brusnicki](https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/), [Baha Zarrouki](https://www.linkedin.com/in/baha-zarrouki/?locale=de_DE), [Alessio Gambi](https://publications.ait.ac.at/en/persons/alessio-gambi/), [Jan Frederik Totz](https://sites.google.com/view/jantotz), [Kai Storms](https://www.linkedin.com/in/kai-storms/?originalSubdomain=de), [Steven Peters](https://www.fzd.tu-darmstadt.de/fzd/team_fzd/team_details_219264.en.jsp), [Andrea Stocco](https://tsigalko18.github.io/), [Bassam Alrifaee](https://www.unibw.de/cas/team/bassam-alrifaee), [Marco Pavone](https://stanfordasl.github.io//people/prof-marco-pavone/), [Johannes Betz](https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/) 
-- [Full Text (PDF)](https://arxiv.org/pdf/2506.11526)
-- [GitHub Repository](https://github.com/TUM-AVS/FM-AD-Survey?tab=readme-ov-file) ![GitHub stars](https://img.shields.io/github/stars/TUM-AVS/FM-AD-Survey?style=social)
 
-<div class="img-grid">
-  <figure>
-    <a href="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/FMs.png" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/FMs.png" alt="Foundation models taxonomy">
-    </a>
-  </figure>
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
+  <img width="200" height="350" src="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/FMs.png" alt="Foundation models taxonomy" />
+  <div>
+    <h4 style="margin: 0;"><a href="https://arxiv.org/abs/2506.11526">Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis</a></h4>
+    <p style="margin: 5px 0; font-style: italic;">IEEE Open Journal of Intelligent Transportation Systems</p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Yuan Gao*, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/korbinian-moller/">Korbinian Moller</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, <a href="https://www.linkedin.com/in/baha-zarrouki/?locale=de_DE">Baha Zarrouki</a>, <a href="https://publications.ait.ac.at/en/persons/alessio-gambi/">Alessio Gambi</a>, <a href="https://sites.google.com/view/jantotz">Jan Frederik Totz</a>, <a href="https://www.linkedin.com/in/kai-storms/?originalSubdomain=de">Kai Storms</a>, <a href="https://www.fzd.tu-darmstadt.de/fzd/team_fzd/team_details_219264.en.jsp">Steven Peters</a>, <a href="https://tsigalko18.github.io/">Andrea Stocco</a>, <a href="https://www.unibw.de/cas/team/bassam-alrifaee">Bassam Alrifaee</a>, <a href="https://stanfordasl.github.io//people/prof-marco-pavone/">Marco Pavone</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/pdf/2506.11526">Full Text (PDF)</a> |
+      <a href="https://github.com/TUM-AVS/FM-AD-Survey?tab=readme-ov-file">GitHub Repository</a> <img src="https://img.shields.io/github/stars/TUM-AVS/FM-AD-Survey?style=social" alt="GitHub stars" />
+    </p>
+  </div>
 </div>
 
-
-### [H2 Suboptimal Containment Control of Homogeneous and Heterogeneous Multi-Agent Systems](https://arxiv.org/abs/2311.11337)  
-*IEEE Transactions on Control of Network Systems (Under Review)*  
-**Authors**: Yuan Gao*, [Junjie Jiao](https://junjiejiao.github.io/), [Zhongkui Li](https://en.coe.pku.edu.cn/faculty/facultyaz/891261.htm), [Sandra Hirche](https://www.professoren.tum.de/en/hirche-sandra)  
-- [Full Text (PDF)](https://arxiv.org/pdf/2311.11337.pdf)
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
   <video width="200" height="250" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/242db174-c7fc-44a9-85a5-312d2a64cce7"></video>
-  <video width="200" height="250" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/99b2dce6-8c4b-41d1-9fbf-24040f4ce4b8"></video>
-  <video width="200" height="250" loop autoplay src="https://github.com/yuan2023-control/TCNS/assets/89707029/5b8bc94b-07cb-47aa-9931-743e532418e4"></video>
+  <div>
+    <h4 style="margin: 0;"><a href="https://arxiv.org/abs/2311.11337">H2 Suboptimal Containment Control of Homogeneous and Heterogeneous Multi-Agent Systems</a></h4>
+    <p style="margin: 5px 0; font-style: italic;">IEEE Transactions on Control of Network Systems (Under Review)</p>
+    <p style="margin: 5px 0;"><strong>Authors:</strong> Yuan Gao*, <a href="https://junjiejiao.github.io/">Junjie Jiao</a>, <a href="https://en.coe.pku.edu.cn/faculty/facultyaz/891261.htm">Zhongkui Li</a>, <a href="https://www.professoren.tum.de/en/hirche-sandra">Sandra Hirche</a></p>
+    <p style="margin: 5px 0;">
+      <a href="https://arxiv.org/pdf/2311.11337.pdf">Full Text (PDF)</a>
+    </p>
+  </div>
 </div>
 
 ---
@@ -51,7 +51,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px;">
-  <img width="200" height="350" src="/images/IEEE-ITSC-merged-labeled.gif" alt="IEEE-ITSC-scenarios" />
+  <img width="200" height="350" src="/images/IEEE-ITSC-thumbnail.jpg" alt="IEEE-ITSC-scenarios" />
   <div>
     <h4 style="margin: 0;"><a href="https://arxiv.org/abs/2502.02145">From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios</a></h4>
     <p style="margin: 5px 0; font-style: italic;">IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025</p>
