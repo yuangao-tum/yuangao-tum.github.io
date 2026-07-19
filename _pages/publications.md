@@ -79,9 +79,9 @@ author_profile: true
   <div class="pub-thumb"><img src="/images/egodyn-bench-framework.png" alt="EgoDyn-Bench framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2604.22851">EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving</a></div>
-    <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Rasmus Schäfer</a>, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, Thomas Stauner, Stephan Günnemann, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, Sebastian Schmidt, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
+    <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Rasmus Schäfer</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuan-gao/"><span class="pub-me">Yuan Gao</span></a>, <a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, Thomas Stauner, <a href="https://scholar.google.com/citations?hl=de&user=npqoAWwAAAAJ">Stephan Günnemann</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://scholar.google.com/citations?user=fWCpyNcAAAAJ&hl=de">Sebastian Schmidt</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
     <div class="pub-venue">European Conference on Computer Vision (ECCV), 2026</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2604.22851">arXiv</a> | <a href="https://arxiv.org/pdf/2604.22851">Full Text (PDF)</a></div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2604.22851">arXiv</a> | <a href="https://arxiv.org/pdf/2604.22851">Full Text (PDF)</a> | <a href="https://github.com/TUM-AVS/EgoDyn-Bench">GitHub Repository</a> | <a href="https://tum-avs.github.io/EgoDyn-Bench-Website/">Project Homepage</a> | <a href="https://huggingface.co/datasets/fnc1901/EgoDyn-Bench">Dataset</a></div>
   </div>
 </div>
 
@@ -92,6 +92,16 @@ author_profile: true
     <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, Yuyu Zhao, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/en/avs/team/marvin-seegert/">Marvin Seegert</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Schäfer</a>, Haotong Qin, Wei Li, Luigi Palmieri, <a href="https://www.mos.ed.tum.de/en/avs/team/felix-jahncke/">Felix Jahncke</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
     <div class="pub-venue">European Conference on Computer Vision (ECCV), 2026</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2511.17792">arXiv</a> | <a href="https://arxiv.org/pdf/2511.17792">Full Text (PDF)</a> | <a href="https://github.com/TUM-AVS/target-bench">GitHub Repository</a> | <a href="https://target-bench.github.io/">Project Homepage</a> | <a href="https://huggingface.co/target-bench">Dataset</a></div>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-thumb"><img src="/images/chat2scenic-framework.png" alt="Chat2Scenic framework" /></div>
+  <div class="pub-body">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2607.14387">Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving</a></div>
+    <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, Wenting Miao, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, Haoyu Wang, <a href="https://scholar.google.com/citations?user=xRb7Ir4AAAAJ&hl=en">Qunying Song</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
+    <div class="pub-venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2607.14387">arXiv</a> | <a href="https://arxiv.org/pdf/2607.14387">Full Text (PDF)</a> | <a href="https://github.com/TUM-AVS/Chat2scenic">GitHub Repository</a> | <a href="https://anonymous-research-paper.github.io/Chat2Scenic/">Project Homepage</a> | <a href="https://huggingface.co/datasets/chat2scenic/Chat2Scenic">Dataset</a></div>
   </div>
 </div>
 
