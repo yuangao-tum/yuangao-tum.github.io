@@ -8,15 +8,15 @@ author_profile: true
 <style>
 .teach-list { margin: 0.4em 0 1.2em; }
 .teach-term { display: flex; gap: 14px; margin: 12px 0; align-items: baseline; }
-.teach-term .term { flex: 0 0 90px; font-weight: 700; color: #444; }
+.teach-term .term { flex: 0 0 90px; font-weight: 700; color: var(--text-soft); }
 .teach-term .body { flex: 1; min-width: 0; }
 .teach-course { margin: 0 0 6px; line-height: 1.45; font-size: 0.96rem; }
-.teach-course .role { color: #666; }
-.lang { display: inline-block; font-size: 0.74rem; color: #555; background: #f1f1f1; border-radius: 10px; padding: 1px 9px; margin-left: 6px; vertical-align: middle; }
+.teach-course .role { color: var(--muted); }
+.lang { display: inline-block; font-size: 0.74rem; color: var(--muted); background: var(--chip-bg); border-radius: 10px; padding: 1px 9px; margin-left: 6px; vertical-align: middle; }
 .teach-materials { display: flex; flex-wrap: wrap; gap: 18px; margin: 10px 0 2px; }
 .teach-materials figure { margin: 0; flex: 0 0 240px; }
-.teach-materials img { width: 240px; height: auto; border: 1px solid #eee; border-radius: 4px; display: block; }
-.teach-materials figcaption { font-size: 0.8rem; color: #666; margin-top: 5px; }
+.teach-materials img { width: 240px; height: auto; border: 1px solid var(--border); border-radius: 4px; display: block; }
+.teach-materials figcaption { font-size: 0.8rem; color: var(--muted); margin-top: 5px; }
 .cert { font-size: 0.96rem; line-height: 1.5; }
 @media (max-width: 600px) {
   .teach-term { flex-direction: column; gap: 2px; }

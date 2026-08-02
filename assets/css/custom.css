@@ -1,0 +1,193 @@
+/* ==========================================================================
+   custom.css — visual refresh layer over the stock academicpages theme
+   Loaded after assets/css/main.css (via _includes/head/custom.html), so these
+   rules win by cascade order. Adds: web fonts (Inter + Noto Serif), a TUM-blue
+   accent, design tokens, and a full dark mode. No theme SCSS was forked.
+   ========================================================================== */
+
+/* ---------- Fonts (self-hosted, subset to Latin) ------------------------- */
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/inter-regular.woff2') format('woff2')}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url('/assets/fonts/inter-semibold.woff2') format('woff2')}
+@font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/inter-bold.woff2') format('woff2')}
+@font-face{font-family:'Noto Serif';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/notoserif-regular.woff2') format('woff2')}
+@font-face{font-family:'Noto Serif';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/notoserif-bold.woff2') format('woff2')}
+
+/* ---------- Design tokens ------------------------------------------------ */
+:root{
+  --font-sans:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --font-serif:'Noto Serif',Georgia,"Times New Roman",serif;
+
+  --bg:#ffffff;
+  --surface:#f4f7fb;
+  --surface-2:#eaf0f8;
+  --border:#e2e8f1;
+  --border-strong:#cdd8e6;
+  --text:#1a2230;
+  --text-soft:#38414f;
+  --muted:#586377;
+  --faint:#8a94a3;
+  --accent:#2f6fb2;         /* TUM blue */
+  --accent-strong:#245688;
+  --accent-soft:#e7f0f9;
+  --flag:#c0392b;           /* [New!] */
+  --chip-bg:#eef2f8;
+  --code-bg:#f6f8fb;
+  --masthead-bg:rgba(255,255,255,0.9);
+  --footer-bg:#f4f7fb;
+  --ring:rgba(47,111,178,0.35);
+}
+/* Dark palette — applied via OS preference, but the explicit [data-theme]
+   attribute (set by the toggle / init script) always wins in both directions. */
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0f141b;--surface:#161f2b;--surface-2:#1c2733;
+    --border:#26313f;--border-strong:#354150;
+    --text:#e7edf5;--text-soft:#c4cdd9;--muted:#9aa6b6;--faint:#71808f;
+    --accent:#5ea0d8;--accent-strong:#8dc0ec;--accent-soft:#152534;
+    --flag:#ff7a6b;--chip-bg:#1c2733;--code-bg:#141c27;
+    --masthead-bg:rgba(15,20,27,0.88);--footer-bg:#0c1119;
+    --ring:rgba(94,160,216,0.4);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0f141b;--surface:#161f2b;--surface-2:#1c2733;
+  --border:#26313f;--border-strong:#354150;
+  --text:#e7edf5;--text-soft:#c4cdd9;--muted:#9aa6b6;--faint:#71808f;
+  --accent:#5ea0d8;--accent-strong:#8dc0ec;--accent-soft:#152534;
+  --flag:#ff7a6b;--chip-bg:#1c2733;--code-bg:#141c27;
+  --masthead-bg:rgba(15,20,27,0.88);--footer-bg:#0c1119;
+  --ring:rgba(94,160,216,0.4);
+}
+:root[data-theme="light"]{
+  --bg:#ffffff;--surface:#f4f7fb;--surface-2:#eaf0f8;
+  --border:#e2e8f1;--border-strong:#cdd8e6;
+  --text:#1a2230;--text-soft:#38414f;--muted:#586377;--faint:#8a94a3;
+  --accent:#2f6fb2;--accent-strong:#245688;--accent-soft:#e7f0f9;
+  --flag:#c0392b;--chip-bg:#eef2f8;--code-bg:#f6f8fb;
+  --masthead-bg:rgba(255,255,255,0.9);--footer-bg:#f4f7fb;
+  --ring:rgba(47,111,178,0.35);
+}
+
+/* ---------- Base typography & surfaces ----------------------------------- */
+html{background-color:var(--bg);}
+body{
+  font-family:var(--font-sans);
+  background-color:var(--bg);
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  transition:background-color .3s ease,color .3s ease;
+}
+h1,h2,h3,h4,h5,h6,
+.page__title,.archive__item-title,.archive__subtitle,.author__name{
+  font-family:var(--font-serif);
+  color:var(--text);
+  letter-spacing:-0.005em;
+}
+.page__content{color:var(--text);}
+.page__content p,.page__content li{color:var(--text);}
+hr{border-color:var(--border);}
+::selection{background:var(--accent-soft);}
+
+/* headings on archive pages (## in CV / Publications / Teaching) */
+.page__content h2{
+  border-bottom:1px solid var(--border);
+  padding-bottom:.3em;
+  margin-top:1.6em;
+}
+
+/* ---------- Links -------------------------------------------------------- */
+a{color:var(--accent);}
+a:hover,a:focus{color:var(--accent-strong);}
+.page__content a{text-underline-offset:2px;}
+.page__content a:hover{text-decoration:underline;}
+
+/* ---------- Masthead / navigation ---------------------------------------- */
+.masthead{
+  background-color:var(--masthead-bg);
+  border-bottom:1px solid var(--border);
+  -webkit-backdrop-filter:saturate(140%) blur(8px);
+  backdrop-filter:saturate(140%) blur(8px);
+}
+.masthead__inner-wrap{position:relative;padding-right:56px;}
+.greedy-nav{background:transparent;}
+.greedy-nav a{color:var(--muted);font-weight:500;}
+.greedy-nav a:hover{color:var(--accent);}
+.greedy-nav .visible-links a:before{background:var(--accent);}
+.masthead__menu-item--lg a{
+  color:var(--text)!important;
+  font-family:var(--font-serif);
+  font-weight:700;
+}
+.masthead__menu-item--lg a:hover{color:var(--accent)!important;}
+.greedy-nav .hidden-links{
+  background:var(--bg);
+  border:1px solid var(--border);
+  box-shadow:0 6px 20px rgba(0,0,0,.12);
+}
+.greedy-nav .hidden-links a{color:var(--muted);}
+.greedy-nav .hidden-links a:hover{color:var(--accent);background:var(--surface);}
+.greedy-nav__toggle .navicon,
+.greedy-nav__toggle .navicon:before,
+.greedy-nav__toggle .navicon:after{background:var(--muted);}
+
+/* ---------- Theme toggle ------------------------------------------------- */
+.theme-toggle{
+  position:absolute;right:12px;top:50%;transform:translateY(-50%);
+  z-index:20;display:inline-flex;align-items:center;justify-content:center;
+  width:38px;height:38px;padding:0;cursor:pointer;
+  color:var(--muted);background:var(--surface);
+  border:1px solid var(--border);border-radius:50%;
+  transition:color .2s,border-color .2s,background .2s;
+}
+.theme-toggle:hover{color:var(--accent);border-color:var(--border-strong);}
+.theme-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+.theme-toggle svg{width:18px;height:18px;}
+.theme-toggle .icon-moon{display:inline-block;}
+.theme-toggle .icon-sun{display:none;}
+:root[data-theme="dark"] .theme-toggle .icon-moon{display:none;}
+:root[data-theme="dark"] .theme-toggle .icon-sun{display:inline-block;}
+@media (max-width:600px){.masthead__inner-wrap{padding-right:52px;}.theme-toggle{width:34px;height:34px;}}
+
+/* ---------- Author sidebar ---------------------------------------------- */
+.author__avatar img{
+  border:1px solid var(--border);
+  box-shadow:0 1px 3px rgba(0,0,0,.08);
+}
+.author__name{font-weight:700;}
+.author__bio{color:var(--muted);}
+.author__urls-wrapper button{
+  color:var(--muted);border:1px solid var(--border);border-radius:6px;
+}
+.author__urls.social-icons a{color:var(--muted);}
+.author__urls.social-icons a:hover{color:var(--accent);}
+.author__urls li{color:var(--muted);}
+
+/* ---------- Footer ------------------------------------------------------- */
+.page__footer{background-color:var(--footer-bg);color:var(--muted);border-top:1px solid var(--border);}
+.page__footer a{color:var(--muted);}
+.page__footer a:hover{color:var(--accent);}
+.page__footer-follow .social-icons a{color:var(--muted);}
+.page__footer-follow .social-icons a:hover{color:var(--accent);}
+
+/* ---------- Code, tables, quotes, notices -------------------------------- */
+code{background:var(--code-bg);color:var(--text);border-radius:3px;}
+pre,.highlight,figure.highlight{background:var(--code-bg);}
+pre code{background:transparent;}
+blockquote{border-left-color:var(--accent);color:var(--muted);}
+table{color:var(--text);}
+th{background:var(--surface-2);border-color:var(--border);}
+td,th{border-color:var(--border);}
+tr{border-color:var(--border);}
+.notice,.notice--info,.notice--warning,.notice--success,.notice--danger{
+  background:var(--surface);border-radius:6px;
+}
+
+/* ---------- Buttons ------------------------------------------------------ */
+.btn{border-radius:6px;}
+.btn--primary,.btn--info{background-color:var(--accent);border-color:var(--accent);}
+.btn--primary:hover,.btn--info:hover{background-color:var(--accent-strong);border-color:var(--accent-strong);}
+
+/* ---------- Focus & motion ---------------------------------------------- */
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px;}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important;}}

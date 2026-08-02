@@ -12,12 +12,12 @@ redirect_from:
 <style>
 .cv-list { margin:0.3em 0 1.2em; }
 .cv-entry { display:flex; gap:16px; margin:13px 0; }
-.cv-entry .when { flex:0 0 132px; color:#666; font-size:0.88rem; padding-top:2px; }
+.cv-entry .when { flex:0 0 132px; color:var(--muted); font-size:0.88rem; padding-top:2px; }
 .cv-entry .what { flex:1; min-width:0; line-height:1.45; }
 .cv-entry .place { font-weight:600; }
-.cv-entry .note { color:#666; font-size:0.88rem; }
-.cv-entry .desc { color:#444; font-size:0.9rem; }
-.cv-legend { font-size:0.82rem; color:#999; margin:4px 0 0; }
+.cv-entry .note { color:var(--muted); font-size:0.88rem; }
+.cv-entry .desc { color:var(--text-soft); font-size:0.9rem; }
+.cv-legend { font-size:0.82rem; color:var(--faint); margin:4px 0 0; }
 .cv-skills { line-height:1.75; }
 .cv-skills .k { display:inline-block; min-width:185px; font-weight:600; vertical-align:top; }
 @media (max-width:600px) {

@@ -21,7 +21,7 @@ author_profile: true
   max-height: 130px;
   object-fit: contain;
   display: block;
-  border: 1px solid #eee;
+  border: 1px solid var(--border);
   border-radius: 4px;
   background: #fff;
 }
@@ -34,7 +34,7 @@ author_profile: true
 }
 .pub-title a { text-decoration: none; }
 .pub-authors { font-size: 0.92rem; line-height: 1.4; margin: 3px 0; }
-.pub-venue   { font-size: 0.9rem; font-style: italic; color: #555; margin: 3px 0; }
+.pub-venue   { font-size: 0.9rem; font-style: italic; color: var(--muted); margin: 3px 0; }
 .pub-links   { font-size: 0.88rem; margin: 5px 0 0 0; }
 .pub-me      { font-weight: 700; }
 @media (max-width: 600px) {

@@ -2,6 +2,19 @@
 
 <!-- start custom head snippets -->
 
+<!-- Set color theme before first paint to avoid a flash -->
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem('theme');
+      if (t !== 'light' && t !== 'dark') {
+        t = (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  })();
+</script>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
@@ -23,6 +36,11 @@
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<!-- Visual refresh: web fonts + TUM-blue accent + dark mode -->
+<link rel="preload" as="font" type="font/woff2" href="{{ base_path }}/assets/fonts/inter-regular.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ base_path }}/assets/fonts/notoserif-bold.woff2" crossorigin>
+<link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css"/>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
