@@ -240,3 +240,17 @@ tr{border-color:var(--border);}
 /* ---------- Focus & motion ---------------------------------------------- */
 a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px;}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important;}}
+
+
+/* ---------- Homepage bio: expandable "Read more" ------------------------- */
+.bio-more{margin:.2em 0 1em;}
+.bio-more > summary{cursor:pointer;color:var(--accent);font-weight:600;font-size:.95rem;list-style:none;display:inline-flex;align-items:center;gap:6px;width:max-content;}
+.bio-more > summary::-webkit-details-marker{display:none;}
+.bio-more > summary::after{content:"\25BE";font-size:.8em;}
+.bio-more[open] > summary::after{content:"\25B4";}
+.bio-more > summary:hover{color:var(--accent-strong);}
+.bio-more[open] > summary{margin-bottom:.7em;}
+.bio-more .less-label{display:none;}
+.bio-more[open] .more-label{display:none;}
+.bio-more[open] .less-label{display:inline;}
+.bio-more p{margin:0 0 1em;}

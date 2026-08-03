@@ -1,61 +1,119 @@
 ---
 layout: archive
-title: ""
+title: "Academic Service"
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /services/
 ---
 
-<h2>Conference Reviewers</h2>
+<style>
+.svc-lead { color:var(--muted); margin:.3em 0 1.1em; }
+.svc-lead strong { color:var(--text); }
+.svc-group { margin:0 0 1.3em; }
+.svc-cat { display:block; font-size:.76rem; font-weight:700; letter-spacing:.07em; text-transform:uppercase; color:var(--accent); margin:0 0 .55em; }
+.svc-badges { display:flex; flex-wrap:wrap; gap:8px; }
+.svc-badge { display:inline-flex; align-items:baseline; gap:6px; font-size:.86rem; padding:5px 11px; border:1px solid var(--border); border-radius:8px; background:var(--surface); }
+.svc-badge b { font-weight:700; color:var(--text); }
+.svc-badge .yr { color:var(--muted); font-size:.8rem; }
+.svc-list { margin:.2em 0 0; }
+.svc-item { display:flex; gap:14px; margin:9px 0; align-items:baseline; }
+.svc-when { flex:0 0 172px; color:var(--muted); font-size:.84rem; font-weight:600; white-space:nowrap; }
+.svc-what { flex:1; min-width:0; line-height:1.45; font-size:.95rem; }
+.svc-what em { color:var(--text-soft); }
+.svc-what .kind { color:var(--faint); font-size:.85em; }
+@media (max-width:600px){ .svc-item{ flex-direction:column; gap:1px; } .svc-when{ flex-basis:auto; } }
+.repo-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(258px,1fr)); gap:14px; margin:.4em 0 1em; }
+.repo-card { display:flex; flex-direction:column; gap:9px; padding:15px 16px; border:1px solid var(--border); border-radius:10px; background:var(--surface); color:var(--text); text-decoration:none; transition:border-color .2s, box-shadow .2s, transform .2s; }
+.repo-card:hover { border-color:var(--accent); box-shadow:0 5px 16px rgba(0,0,0,.09); transform:translateY(-2px); }
+.repo-name { display:flex; align-items:center; gap:7px; font-weight:700; font-size:.98rem; color:var(--accent); }
+.repo-name svg { width:17px; height:17px; flex:0 0 auto; }
+.repo-desc { font-size:.87rem; color:var(--text-soft); line-height:1.45; flex:1; }
+.repo-meta { display:flex; flex-wrap:wrap; gap:13px; align-items:center; font-size:.8rem; color:var(--muted); }
+.repo-lang { display:inline-flex; align-items:center; gap:5px; }
+.repo-dot { width:10px; height:10px; border-radius:50%; }
+.repo-tags { display:flex; flex-wrap:wrap; gap:5px; }
+.repo-tag { font-size:.7rem; color:var(--accent); background:var(--accent-soft); border-radius:20px; padding:2px 8px; }
+</style>
 
-<ul>
-  <li>The IEEE/CVF Winter Conference on Applications of Computer Vision 2027 (WACV)</li>
-  <li>The Fortieth Annual Conference on Neural Information Processing Systems 2026 (NeurIPS)</li>
-  <li>IEEE/RSJ International Conference on Intelligent Robots and Systems 2026 (IROS)</li>
-  <li>IEEE International Conference on Intelligent Transportation Systems 2026 (ITSC)</li>
-  <li>IEEE International Conference on Robotics & Automation 2026 (ICRA)</li>
-  <li>IEEE Intelligent Vehicles Symposium 2026 (IV)</li>
-  <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR)</li>
-  <li>The International Conference on Learning Representations 2026 (ICLR)</li>
-  <li>IEEE International Conference on Intelligent Transportation Systems 2025 (ITSC)</li>
-  <li>IEEE Intelligent Vehicles Symposium 2025 (IV)</li>
-  <li>IEEE International Conference on Robotics & Automation 2025 (ICRA)</li>
-  <li>International Federation of Automatic Control World Congress 2023 (IFAC)</li>
-</ul>
+<h2>Reviewing</h2>
 
-<h2>Journal Reviewers</h2>
+<p class="svc-lead">Reviewer for <strong>9 conferences</strong> and <strong>2 journals</strong> across machine learning, computer vision, robotics, and intelligent transportation.</p>
 
-<ul>
-  <li>IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)</li>
-  <li>IEEE Robotics and Automation Letters</li>
-</ul>
+<div class="svc-group"><span class="svc-cat">Conferences</span>
+<div class="svc-badges">
+  <span class="svc-badge"><b>NeurIPS</b> <span class="yr">2026</span></span>
+  <span class="svc-badge"><b>ICLR</b> <span class="yr">2026</span></span>
+  <span class="svc-badge"><b>CVPR</b> <span class="yr">2026</span></span>
+  <span class="svc-badge"><b>WACV</b> <span class="yr">2027</span></span>
+  <span class="svc-badge"><b>ICRA</b> <span class="yr">2026 · 2025</span></span>
+  <span class="svc-badge"><b>IROS</b> <span class="yr">2026</span></span>
+  <span class="svc-badge"><b>ITSC</b> <span class="yr">2026 · 2025</span></span>
+  <span class="svc-badge"><b>IEEE IV</b> <span class="yr">2026 · 2025</span></span>
+  <span class="svc-badge"><b>IFAC WC</b> <span class="yr">2023</span></span>
+</div>
+</div>
 
+<div class="svc-group"><span class="svc-cat">Journals</span>
+<div class="svc-badges">
+  <span class="svc-badge"><b>IEEE OJ-ITS</b></span>
+  <span class="svc-badge"><b>IEEE RA-L</b></span>
+</div>
+</div>
 
-<h2> Supervised Student Theses </h2>
+<h2>Student Supervision</h2>
 
-<ul>
-  <li><strong>Chen Li</strong>, Master Thesis: <em>Multimodal Retrieval-Augmented Closed-Loop Autonomous Driving Scenario Generation</em>, June 2026</li>
-  <li><strong>Joshua Pusch</strong>, Interdisciplinary Project: <em>A VLM-Based Scenario Analysis of Autonomous Driving</em>, March 2026</li>
-  <li><strong>Haoyu Wang</strong>, Master Thesis: <em>Closing the Loop: Integrating Vision-Language Models for Feedback-Driven ADAS Scenario Generation</em>, March 2026</li>
-  <li><strong>Mengchen Cai</strong>, Forschungspraktikum: <em>From State Machines to Traffic Safety: Benchmarking Driver Assistance Systems Using Structured Scenario Models</em>, February 2026</li>
-  <li><strong>Karmishth Annauth</strong>, Semester Thesis: <em>Literature Study: Lightweight and Fast-Inference Vision-Language Models for Autonomous Driving</em>, February 2026</li>
-  <li><strong>Wenting Miao</strong>, Master Thesis: <em>Retrieval-Augmented Generation of Simulator-Compatible ADAS Scenarios</em>, January 2026</li>
-  <li><strong>Dengyuan Hua</strong>, Master Thesis: <em>VLM-based Trajectory Generation: Driving Behavior Diversity</em>, January 2026</li>
-  <li><strong>Yung Loon Lim</strong>, Semester Thesis: <em>Bridging ADAS/ADS Functionality, Regulations, and Scenario-Based Testing: A Comprehensive Literature Review</em>, Dec 2025</li>
-  <li><strong>Leonardo Zambrano</strong>, Bachelor Thesis: <em>Fine-Tuning Vision-Language Models for Risk Assessment in Autonomous Driving</em>, October 2025</li>
-  <li><strong>Sebastian Müller</strong>, Bachelor Thesis: <em>Generation of Safety-Critical Scenarios Based on LLMs</em>, September 2025</li>
-  <li><strong>Marek Lorenz</strong>, Bachelor Thesis: <em>Risk-Aware Scenario Analysis Based on LLMs in Autonomous Driving</em>, April 2025</li>
-</ul>
+<p class="svc-lead"><strong>13</strong> theses and projects supervised at TUM (2024–2026).</p>
 
+<div class="svc-group"><span class="svc-cat">Master's Theses</span>
+<div class="svc-list">
+  <div class="svc-item"><div class="svc-when">Feb – Aug 2026</div><div class="svc-what"><strong>Yang Zhang</strong> — <em>Ethics-Aware Decision Modeling for Autonomous Driving Using Large Vision-Language Models</em></div></div>
+  <div class="svc-item"><div class="svc-when">Feb – Aug 2026</div><div class="svc-what"><strong>Yuheng Liu</strong> — <em>CoVLM: A Vision-Language-Model-Based Semantic V2V Cooperation Agent for Autonomous Driving</em></div></div>
+  <div class="svc-item"><div class="svc-when">Dec 2025 – Jun 2026</div><div class="svc-what"><strong>Chen Li</strong> — <em>Multimodal Retrieval-Augmented Closed-Loop Autonomous Driving Scenario Generation</em></div></div>
+  <div class="svc-item"><div class="svc-when">Sep 2025 – Mar 2026</div><div class="svc-what"><strong>Haoyu Wang</strong> — <em>Closing the Loop: Integrating Vision-Language Models for Feedback-Driven ADAS Scenario Generation</em></div></div>
+  <div class="svc-item"><div class="svc-when">Jul 2025 – Jan 2026</div><div class="svc-what"><strong>Wenting Miao</strong> — <em>Retrieval-Augmented Generation of Simulator-Compatible ADAS Scenarios</em></div></div>
+  <div class="svc-item"><div class="svc-when">Jul 2025 – Jan 2026</div><div class="svc-what"><strong>Dengyuan Hua</strong> — <em>VLM-based Trajectory Generation: Driving Behavior Diversity</em></div></div>
+</div>
+</div>
 
+<div class="svc-group"><span class="svc-cat">Semester Theses &amp; Projects</span>
+<div class="svc-list">
+  <div class="svc-item"><div class="svc-when">Sep 2025 – Mar 2026</div><div class="svc-what"><strong>Joshua Pusch</strong> — <em>A VLM-Based Scenario Analysis of Autonomous Driving</em> <span class="kind">· Interdisciplinary project</span></div></div>
+  <div class="svc-item"><div class="svc-when">Aug 2025 – Feb 2026</div><div class="svc-what"><strong>Karmishth Annauth</strong> — <em>Lightweight and Fast-Inference Vision-Language Models for Autonomous Driving</em> <span class="kind">· Semester thesis · literature study</span></div></div>
+  <div class="svc-item"><div class="svc-when">Aug 2025 – Feb 2026</div><div class="svc-what"><strong>Mengchen Cai</strong> — <em>From State Machines to Traffic Safety: Benchmarking Driver Assistance Systems Using Structured Scenario Models</em> <span class="kind">· Research internship</span></div></div>
+  <div class="svc-item"><div class="svc-when">Jun – Dec 2025</div><div class="svc-what"><strong>Yung Loon Lim</strong> — <em>Bridging ADAS/ADS Functionality, Regulations, and Scenario-Based Testing: A Comprehensive Literature Review</em> <span class="kind">· Semester thesis</span></div></div>
+</div>
+</div>
 
+<div class="svc-group"><span class="svc-cat">Bachelor's Theses</span>
+<div class="svc-list">
+  <div class="svc-item"><div class="svc-when">Apr – Oct 2025</div><div class="svc-what"><strong>Leonardo Zambrano</strong> — <em>Fine-Tuning Vision-Language Models for Risk Assessment in Autonomous Driving</em></div></div>
+  <div class="svc-item"><div class="svc-when">Mar – Sep 2025</div><div class="svc-what"><strong>Sebastian Müller</strong> — <em>Generation of Safety-Critical Scenarios Based on LLMs</em></div></div>
+  <div class="svc-item"><div class="svc-when">Oct 2024 – Apr 2025</div><div class="svc-what"><strong>Marek Lorenz</strong> — <em>Risk-Aware Scenario Analysis Based on LLMs in Autonomous Driving</em></div></div>
+</div>
+</div>
 
+<h2>Open Source</h2>
 
+<p class="svc-lead">Selected tools and Claude Code skills I build and maintain.</p>
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="repo-grid">
+  <a class="repo-card" href="https://github.com/yuangao-tum/rebuttal-skills">
+    <span class="repo-name"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5A11.5 11.5 0 0 0 .5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.55v-2c-3.2.7-3.88-1.37-3.88-1.37-.53-1.34-1.3-1.7-1.3-1.7-1.06-.72.08-.71.08-.71 1.17.08 1.79 1.2 1.79 1.2 1.04 1.79 2.73 1.27 3.4.97.1-.75.4-1.27.74-1.56-2.56-.29-5.26-1.28-5.26-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.8 0c2.2-1.5 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.43-2.7 5.4-5.28 5.69.42.36.78 1.07.78 2.16v3.2c0 .3.2.66.8.55A11.5 11.5 0 0 0 23.5 12 11.5 11.5 0 0 0 12 .5z"/></svg> rebuttal-skills</span>
+    <span class="repo-desc">Claude Code skills for writing peer-review rebuttals — process &amp; tactics, plus 28 per-concern answer templates.</span>
+    <span class="repo-meta"><span class="repo-lang"><span class="repo-dot" style="background:#3D6117"></span> TeX</span><span>★ 5</span></span>
+    <span class="repo-tags"><span class="repo-tag">peer-review</span><span class="repo-tag">rebuttal</span><span class="repo-tag">claude-skills</span></span>
+  </a>
+  <a class="repo-card" href="https://github.com/yuangao-tum/claude-paper-skills-overview">
+    <span class="repo-name"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5A11.5 11.5 0 0 0 .5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.55v-2c-3.2.7-3.88-1.37-3.88-1.37-.53-1.34-1.3-1.7-1.3-1.7-1.06-.72.08-.71.08-.71 1.17.08 1.79 1.2 1.79 1.2 1.04 1.79 2.73 1.27 3.4.97.1-.75.4-1.27.74-1.56-2.56-.29-5.26-1.28-5.26-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.8 0c2.2-1.5 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.43-2.7 5.4-5.28 5.69.42.36.78 1.07.78 2.16v3.2c0 .3.2.66.8.55A11.5 11.5 0 0 0 23.5 12 11.5 11.5 0 0 0 12 .5z"/></svg> claude-paper-skills-overview</span>
+    <span class="repo-desc">Overview of installed Claude skill suites for research, figures, and diagrams.</span>
+    <span class="repo-meta"><span>★ 5</span></span>
+    <span class="repo-tags"><span class="repo-tag">claude-skills</span></span>
+  </a>
+  <a class="repo-card" href="https://github.com/yuangao-tum/vlm-viz">
+    <span class="repo-name"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .5A11.5 11.5 0 0 0 .5 12a11.5 11.5 0 0 0 7.86 10.92c.58.1.79-.25.79-.55v-2c-3.2.7-3.88-1.37-3.88-1.37-.53-1.34-1.3-1.7-1.3-1.7-1.06-.72.08-.71.08-.71 1.17.08 1.79 1.2 1.79 1.2 1.04 1.79 2.73 1.27 3.4.97.1-.75.4-1.27.74-1.56-2.56-.29-5.26-1.28-5.26-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.8 0c2.2-1.5 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.43-2.7 5.4-5.28 5.69.42.36.78 1.07.78 2.16v3.2c0 .3.2.66.8.55A11.5 11.5 0 0 0 23.5 12 11.5 11.5 0 0 0 12 .5z"/></svg> vlm-viz</span>
+    <span class="repo-desc">Interactive 3D visualization of Qwen3-VL / Qwen2.5-VL architectures, built for autonomous-driving trajectory prediction.</span>
+    <span class="repo-meta"><span class="repo-lang"><span class="repo-dot" style="background:#3178c6"></span> TypeScript</span><span>★ 5</span></span>
+    <span class="repo-tags"><span class="repo-tag">vision-language</span><span class="repo-tag">visualization</span></span>
+  </a>
+</div>

@@ -164,20 +164,22 @@ author_profile: true
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><div style="width:180px;height:120px;display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--border);border-radius:4px;background:var(--surface);color:var(--muted);text-align:center;line-height:1.3;padding:6px;"><span style="font-size:0.82rem;font-weight:700;">Whole-Body VLA</span><span style="font-size:0.7rem;color:var(--faint);margin-top:3px;">German Robotics Conf. 2026</span></div></div>
+  <div class="pub-thumb"><img src="/images/thumb/wbvla-framework.jpg" data-full="/images/wbvla-framework.png" alt="Towards Whole-Body VLA — framework overview" /></div>
   <div class="pub-body">
     <div class="pub-title">Towards Whole-Body VLA: A Scalable Data Collection Framework for Quadrupedal Mobile Manipulators</div>
     <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
     <div class="pub-venue">2nd German Robotics Conference (GRC), 2026</div>
+    <div class="pub-links"><a href="https://www.mos.ed.tum.de/fileadmin/w00ccp/avs/_my_direct_uploads/Yuan.pdf">Full Text (PDF)</a></div>
   </div>
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><div style="width:180px;height:120px;display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--border);border-radius:4px;background:var(--surface);color:var(--muted);text-align:center;line-height:1.3;padding:6px;"><span style="font-size:0.82rem;font-weight:700;">Warnless</span><span style="font-size:0.7rem;color:var(--faint);margin-top:3px;">DeepTest 2026 Tool Competition</span></div></div>
+  <div class="pub-thumb"><img src="/images/thumb/warnless-usecase.jpg" data-full="/images/warnless-usecase.png" alt="Warnless — DeepTest 2026 use case" /></div>
   <div class="pub-body">
     <div class="pub-title">Warnless at the DeepTest 2026 Tool Competition</div>
     <div class="pub-authors"><a href="https://scholar.google.com/citations?user=xRb7Ir4AAAAJ&hl=en">Qunying Song</a>, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, <a href="http://www0.cs.ucl.ac.uk/staff/f.sarro/">Federica Sarro</a></div>
     <div class="pub-venue">7th IEEE/ACM International Workshop on Deep Learning for Testing (DeepTest), 2026</div>
+    <div class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3786154.3796503">ACM Digital Library</a></div>
   </div>
 </div>
 

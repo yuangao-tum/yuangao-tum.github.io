@@ -12,7 +12,7 @@ redirect_from:
 <style>
 .cv-list { margin:0.3em 0 1.2em; }
 .cv-entry { display:flex; gap:16px; margin:13px 0; }
-.cv-entry .when { flex:0 0 132px; color:var(--muted); font-size:0.88rem; padding-top:2px; }
+.cv-entry .when { flex:0 0 158px; color:var(--muted); font-size:0.88rem; padding-top:2px; white-space:nowrap; }
 .cv-entry .what { flex:1; min-width:0; line-height:1.45; }
 .cv-entry .place { font-weight:600; }
 .cv-entry .note { color:var(--muted); font-size:0.88rem; }
@@ -25,21 +25,34 @@ redirect_from:
   .cv-entry .when { flex-basis:auto; }
   .cv-skills .k { min-width:auto; display:block; }
 }
-.cv-pdf { width:100%; height:85vh; min-height:640px; border:1px solid var(--border); border-radius:8px; background:var(--surface); }
-@media (max-width:600px){ .cv-pdf{ height:70vh; min-height:460px; } }
+.cv-pdf-wrap { clear:both; margin-top:0.4em; }
+.cv-pdf { display:block; width:100%; height:80vh; min-height:600px; border:1px solid var(--border); border-radius:8px; background:var(--surface); }
+@media (max-width:600px){ .cv-pdf{ height:75vh; min-height:460px; } }
+.cv-list .cv-entry { align-items:flex-start; }
+.cv-logo { flex:0 0 46px; }
+.mono { display:flex; align-items:center; justify-content:center; width:46px; height:46px; border-radius:8px; font-weight:800; font-size:0.68rem; letter-spacing:0.01em; line-height:1.05; text-align:center; color:var(--accent); background:var(--surface); border:1px solid var(--border); }
+@media (max-width:600px){ .cv-logo{ flex-basis:40px; } .mono{ width:40px; height:40px; } }
+.cv-logo .uni-logo { display:block; width:46px; height:46px; object-fit:contain; background:#fff; border:1px solid var(--border); border-radius:8px; padding:3px; }
+@media (max-width:600px){ .cv-logo .uni-logo{ width:40px; height:40px; } }
+.cv-list .cv-logo { flex:0 0 74px; }
+.cv-logo .mono { box-sizing:border-box; width:74px; height:46px; border-radius:7px; font-size:0.72rem; }
+.cv-logo .uni-logo { box-sizing:border-box; width:74px; height:46px; border-radius:7px; padding:4px 7px; }
+@media (max-width:600px){ .cv-list .cv-logo{ flex-basis:62px; } .cv-logo .mono, .cv-logo .uni-logo{ width:62px; height:40px; } }
 </style>
 
 ## Education
 
 <div class="cv-list">
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">Oct 2024 – present</div>
   <div class="what">
     <div class="place"><a href="https://www.tum.de/en/">Technical University of Munich</a></div>
     <div>Ph.D. Student, TUM School of Engineering and Design (Mechanical Engineering)</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">Oct 2021 – Aug 2023</div>
   <div class="what">
     <div class="place"><a href="https://www.tum.de/en/">Technical University of Munich</a></div>
@@ -47,7 +60,8 @@ redirect_from:
     <div class="note">Grade 1.5 — Distinction</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">Oct 2019 – Feb 2023</div>
   <div class="what">
     <div class="place"><a href="https://www.tum.de/en/">Technical University of Munich</a></div>
@@ -55,7 +69,8 @@ redirect_from:
     <div class="note">Grade 1.2 — High Distinction</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/kit.png" alt="Karlsruhe Institute of Technology" class="uni-logo"></div>
+  
   <div class="when">Oct 2018 – Sep 2019</div>
   <div class="what">
     <div class="place"><a href="https://www.kit.edu/english/">Karlsruhe Institute of Technology</a></div>
@@ -63,7 +78,8 @@ redirect_from:
     <div class="note">Grade 1.8</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/hfut.png" alt="Hefei University of Technology" class="uni-logo"></div>
+  
   <div class="when">Sep 2013 – Jun 2017</div>
   <div class="what">
     <div class="place"><a href="https://jxxysme.hfut.edu.cn/">Hefei University of Technology</a></div>
@@ -71,7 +87,8 @@ redirect_from:
     <div class="note">GPA 3.74/4.3 · Rank 3/384 · with honors</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/isu.png" alt="I-Shou University" class="uni-logo"></div>
+  
   <div class="when">Feb 2015 – Jun 2015</div>
   <div class="what">
     <div class="place"><a href="https://www2.isu.edu.tw/en1/">I-Shou University, Taiwan</a></div>
@@ -85,7 +102,8 @@ redirect_from:
 ## Professional Experience
 
 <div class="cv-list">
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">Oct 2024 – present</div>
   <div class="what">
     <div class="place">Research Associate</div>
@@ -93,7 +111,8 @@ redirect_from:
     <div class="desc">Project funded by the Zentrales Innovationsprogramm Mittelstand (ZIM), German Federal Ministry for Economic Affairs and Energy (Bundesministerium für Wirtschaft und Energie).</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">Jul 2023 – Nov 2023</div>
   <div class="what">
     <div class="place">Research Assistant</div>
@@ -101,7 +120,8 @@ redirect_from:
     <div class="desc">Distributed optimal control of multi-agent systems.</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/itk.png" alt="ITK Engineering" class="uni-logo"></div>
+  
   <div class="when">Feb 2023 – Jun 2023</div>
   <div class="what">
     <div class="place">Internship</div>
@@ -109,7 +129,8 @@ redirect_from:
     <div class="desc">Medical robotics in the Healthcare product area.</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">May 2022 – Dec 2022</div>
   <div class="what">
     <div class="place">Master's Thesis</div>
@@ -117,7 +138,8 @@ redirect_from:
     <div class="desc">H&#8322; suboptimal containment control of multi-agent systems.</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">Mar 2022 – Aug 2022</div>
   <div class="what">
     <div class="place">Student Research Assistant</div>
@@ -125,7 +147,8 @@ redirect_from:
     <div class="desc">Driving-simulator research for automated driving.</div>
   </div>
 </div>
-<div class="cv-entry">
+<div class="cv-entry"><div class="cv-logo"><img src="/images/logos/tum.png" alt="Technical University of Munich" class="uni-logo"></div>
+  
   <div class="when">May 2021 – Dec 2021</div>
   <div class="what">
     <div class="place">Term's Thesis</div>
@@ -164,6 +187,6 @@ Photography · Skateboarding · Swimming · Skiing
 
 <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" style="margin:0.2em 0 1em;">⬇ Download CV (PDF)</a>
 
-<object data="{{ base_path }}/files/cv.pdf" type="application/pdf" class="cv-pdf" aria-label="Curriculum Vitae — PDF preview">
-  <p style="padding:1em; color:var(--muted);">Your browser can’t display the embedded PDF. <a href="{{ base_path }}/files/cv.pdf">Download the CV (PDF)</a> instead.</p>
-</object>
+<div class="cv-pdf-wrap">
+  <iframe src="{{ base_path }}/files/cv.pdf" class="cv-pdf" title="Curriculum Vitae — PDF preview" loading="lazy"></iframe>
+</div>
