@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuan Gao's homepage"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "personal description"
+description              : &description "Yuan Gao — Ph.D. candidate and research associate in Autonomous Vehicle Systems at the Technical University of Munich, researching foundation-model-based scenario generation and analysis for autonomous driving."
 url                      : https://yuangao-tum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuangao-tum/yuangao-tum.github.io"
@@ -62,13 +62,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "og-card.png" # Open Graph/Twitter default site image (theme prepends /images/)
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Yuan Gao"
+  links:
+    - "https://scholar.google.de/citations?user=LXhDmFIAAAAJ&hl=de"
+    - "https://github.com/yuangao-tum"
+    - "https://www.linkedin.com/in/yuan-gao-tum/"
+    - "https://www.researchgate.net/profile/Yuan-Gao-113"
 
 
 # Analytics

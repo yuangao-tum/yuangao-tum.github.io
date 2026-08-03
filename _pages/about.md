@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello!  I am pursuing a Ph.D. degree in the  [Professorship of Autonomous Vehicle Systems](https://www.mos.ed.tum.de/en/avs/home/) at the School of Engineering and Design, [Technical University of Munich](https://www.tum.de/en/), Germany, under the supervision of Professor [Dr.-Ing. Johannes Betz](https://www.professoren.tum.de/en/betz-johannes). My research focuses on scenario generation based on LLMs. I have recently graduated with the double Master degree in Mechatronics and Robotics with high distinction, as well as Development, Production, and Management in Mechanical Engineering with distinction from the same university [TUM](https://www.tum.de/en/) in 2023.
+Hello!  I am a Research Associate and Ph.D. candidate at the [Professorship of Autonomous Vehicle Systems](https://www.mos.ed.tum.de/en/avs/home/), School of Engineering and Design, [Technical University of Munich](https://www.tum.de/en/), Germany, under the supervision of Professor [Dr.-Ing. Johannes Betz](https://www.professoren.tum.de/en/betz-johannes). My research focuses on foundation-model-based scenario generation and analysis for autonomous driving. I have recently graduated with the double Master degree in Mechatronics and Robotics with high distinction, as well as Development, Production, and Management in Mechanical Engineering with distinction from the same university [TUM](https://www.tum.de/en/) in 2023.
 
 During my master's studies, I conducted my research at the [Chair of Information-oriented Control](https://www.ce.cit.tum.de/en/itr/home/) under the supervision of [Dr. Junjie Jiao](https://junjiejiao.github.io/) and Professor [Dr.-Ing. Sandra Hirche](https://www.professoren.tum.de/en/hirche-sandra), where I completed my master's thesis. Prior to that, I worked as a student research assistant and wrote my term's thesis at the [Chair of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/home/) under the supervision of Professor [Dr.-Ing. Markus Lienkamp](https://www.professoren.tum.de/en/lienkamp-markus).
 
@@ -34,7 +34,7 @@ I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation 
 <div class="pub-hl">
   <div class="pub-hl-media">
     <span class="pub-hl-badge">IROS'26</span>
-    <span class="pub-hl-thumb"><img src="/images/chat2scenic-framework.png" alt="Chat2Scenic framework" /></span>
+    <span class="pub-hl-thumb"><img src="/images/thumb/chat2scenic-framework.jpg" data-full="/images/chat2scenic-framework.png" alt="Chat2Scenic framework" /></span>
   </div>
   <div class="pub-hl-body">
     <div class="pub-hl-title"><a href="https://arxiv.org/abs/2607.14387">Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving</a></div>
@@ -49,7 +49,7 @@ I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation 
 <div class="pub-hl">
   <div class="pub-hl-media">
     <span class="pub-hl-badge">ECCV'26</span>
-    <span class="pub-hl-thumb"><img src="/images/egodyn-bench-framework.png" alt="EgoDyn-Bench framework" /></span>
+    <span class="pub-hl-thumb"><img src="/images/thumb/egodyn-bench-framework.jpg" data-full="/images/egodyn-bench-framework.png" alt="EgoDyn-Bench framework" /></span>
   </div>
   <div class="pub-hl-body">
     <div class="pub-hl-title"><a href="https://arxiv.org/abs/2604.22851">EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving</a></div>
@@ -64,7 +64,7 @@ I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation 
 <div class="pub-hl">
   <div class="pub-hl-media">
     <span class="pub-hl-badge">ECCV'26</span>
-    <span class="pub-hl-thumb"><img src="/images/target-bench-framework.jpeg" alt="Target-Bench framework" /></span>
+    <span class="pub-hl-thumb"><img src="/images/thumb/target-bench-framework.jpg" data-full="/images/target-bench-framework.jpeg" alt="Target-Bench framework" /></span>
   </div>
   <div class="pub-hl-body">
     <div class="pub-hl-title"><a href="https://arxiv.org/abs/2511.17792">Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?</a></div>
@@ -79,7 +79,7 @@ I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation 
 <div class="pub-hl">
   <div class="pub-hl-media">
     <span class="pub-hl-badge">OJ-ITS'26</span>
-    <span class="pub-hl-thumb"><img src="https://github.com/TUM-AVS/FM-AD-Survey/raw/main/Assets/Sec2_FMs.png" alt="Foundation models for autonomous driving — taxonomy" /></span>
+    <span class="pub-hl-thumb"><img src="/images/thumb/fm-survey.jpg" data-full="https://github.com/TUM-AVS/FM-AD-Survey/raw/main/Assets/Sec2_FMs.png" alt="Foundation models for autonomous driving — taxonomy" /></span>
   </div>
   <div class="pub-hl-body">
     <div class="pub-hl-title"><a href="https://arxiv.org/abs/2506.11526">Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis</a></div>
@@ -94,7 +94,7 @@ I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation 
 <div class="pub-hl">
   <div class="pub-hl-media">
     <span class="pub-hl-badge">ICRA'26</span>
-    <span class="pub-hl-thumb"><img src="/images/nurisk-framework.png" alt="NuRisk framework" /></span>
+    <span class="pub-hl-thumb"><img src="/images/thumb/nurisk-framework.jpg" data-full="/images/nurisk-framework.png" alt="NuRisk framework" /></span>
   </div>
   <div class="pub-hl-body">
     <div class="pub-hl-title"><a href="https://arxiv.org/abs/2509.25944">NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving</a></div>
@@ -109,7 +109,7 @@ I earned my Bachelor's degree in Mechanical Design, Manufacture, and Automation 
 <div class="pub-hl">
   <div class="pub-hl-media">
     <span class="pub-hl-badge">ITSC'25</span>
-    <span class="pub-hl-thumb"><img src="/images/IEEE-ITSC-thumbnail.jpg" alt="From Words to Collisions" /></span>
+    <span class="pub-hl-thumb"><img src="/images/thumb/IEEE-ITSC-thumbnail.jpg" data-full="/images/IEEE-ITSC-thumbnail.jpg" alt="From Words to Collisions" /></span>
   </div>
   <div class="pub-hl-body">
     <div class="pub-hl-title"><a href="https://arxiv.org/abs/2502.02145">From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios</a></div>

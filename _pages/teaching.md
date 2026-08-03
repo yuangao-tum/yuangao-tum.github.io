@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching & Talks"
 permalink: /teaching/
 author_profile: true
 ---
@@ -23,6 +23,29 @@ author_profile: true
   .teach-materials figure, .teach-materials img { flex: 1 1 100%; width: 100%; }
 }
 </style>
+
+## Talks &amp; Presentations
+
+<div class="teach-list">
+<div class="teach-term">
+  <div class="term">Jun 2026</div>
+  <div class="body">
+    <div class="teach-course"><strong>IEEE ICRA 2026</strong>, Vienna, Austria — presented <em>NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment</em>.</div>
+  </div>
+</div>
+<div class="teach-term">
+  <div class="term">Nov 2025</div>
+  <div class="body">
+    <div class="teach-course"><strong>IEEE ITSC 2025</strong>, Gold Coast, Australia — presented <em>From Words to Collisions</em>, with workshop talks at the <a href="https://llvm-ad.github.io/ITSC_2025/">LLVM-AD Workshop</a> and the <a href="https://interactions_workshop.gitlab.io/itsc2025.html">Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles Workshop</a>.</div>
+  </div>
+</div>
+<div class="teach-term">
+  <div class="term">Nov 2025</div>
+  <div class="body">
+    <div class="teach-course"><strong>Research visit</strong> — <a href="https://www.linkedin.com/company/australian-centre-for-robotics/posts/?feedView=all">Australian Centre for Robotics</a>, University of Sydney.</div>
+  </div>
+</div>
+</div>
 
 ## Teaching Assistant
 

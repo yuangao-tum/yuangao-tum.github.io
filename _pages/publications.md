@@ -68,7 +68,7 @@ author_profile: true
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><img src="https://anonymous-paper-2026.github.io/StyleVLA/figure/Framework-1.png" alt="StyleVLA framework" /></div>
+  <div class="pub-thumb"><img src="/images/thumb/stylevla-framework.jpg" data-full="https://anonymous-paper-2026.github.io/StyleVLA/figure/Framework-1.png" alt="StyleVLA framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2603.09482">StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving</a></div>
     <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, Dengyuan Hua, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Rasmus Schäfer</a>, <a href="https://www.mos.ed.tum.de/avs/team/korbinian-moller/">Korbinian Moller</a>, <a href="https://www.researchgate.net/profile/Lin-Li-230">Lin Li</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -86,7 +86,7 @@ author_profile: true
 <div class="pub-list">
 
 <div class="pub">
-  <div class="pub-thumb"><img src="https://github.com/TUM-AVS/FM-AD-Survey/raw/main/Assets/Sec2_FMs.png" alt="Foundation models taxonomy" /></div>
+  <div class="pub-thumb"><img src="/images/thumb/fm-survey.jpg" data-full="https://github.com/TUM-AVS/FM-AD-Survey/raw/main/Assets/Sec2_FMs.png" alt="Foundation models taxonomy" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2506.11526">Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis</a></div>
     <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/korbinian-moller/">Korbinian Moller</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, <a href="https://www.linkedin.com/in/baha-zarrouki/?locale=de_DE">Baha Zarrouki</a>, <a href="https://publications.ait.ac.at/en/persons/alessio-gambi/">Alessio Gambi</a>, <a href="https://sites.google.com/view/jantotz">Jan Frederik Totz</a>, <a href="https://www.linkedin.com/in/kai-storms/?originalSubdomain=de">Kai Storms</a>, <a href="https://www.fzd.tu-darmstadt.de/fzd/team_fzd/team_details_219264.en.jsp">Steven Peters</a>, <a href="https://tsigalko18.github.io/">Andrea Stocco</a>, <a href="https://www.unibw.de/cas/team/bassam-alrifaee">Bassam Alrifaee</a>, <a href="https://stanfordasl.github.io//people/prof-marco-pavone/">Marco Pavone</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -114,7 +114,7 @@ author_profile: true
 <div class="pub-list">
 
 <div class="pub">
-  <div class="pub-thumb"><img src="/images/egodyn-bench-framework.png" alt="EgoDyn-Bench framework" /></div>
+  <div class="pub-thumb"><img src="/images/thumb/egodyn-bench-framework.jpg" data-full="/images/egodyn-bench-framework.png" alt="EgoDyn-Bench framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2604.22851">EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving</a></div>
     <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Rasmus Schäfer</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuan-gao/"><span class="pub-me">Yuan Gao</span></a>, <a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, Thomas Stauner, <a href="https://scholar.google.com/citations?hl=de&user=npqoAWwAAAAJ">Stephan Günnemann</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://scholar.google.com/citations?user=fWCpyNcAAAAJ&hl=de">Sebastian Schmidt</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -124,7 +124,7 @@ author_profile: true
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><img src="/images/target-bench-framework.jpeg" alt="Target-Bench framework" /></div>
+  <div class="pub-thumb"><img src="/images/thumb/target-bench-framework.jpg" data-full="/images/target-bench-framework.jpeg" alt="Target-Bench framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2511.17792">Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?</a></div>
     <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, Yuyu Zhao, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/en/avs/team/marvin-seegert/">Marvin Seegert</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Schäfer</a>, <a href="https://htqin.github.io/">Haotong Qin</a>, Wei Li, <a href="https://palmieri.github.io/">Luigi Palmieri</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/felix-jahncke/">Felix Jahncke</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -134,7 +134,7 @@ author_profile: true
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><img src="/images/chat2scenic-framework.png" alt="Chat2Scenic framework" /></div>
+  <div class="pub-thumb"><img src="/images/thumb/chat2scenic-framework.jpg" data-full="/images/chat2scenic-framework.png" alt="Chat2Scenic framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2607.14387">Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving</a></div>
     <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, Wenting Miao, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, Haoyu Wang, <a href="https://scholar.google.com/citations?user=xRb7Ir4AAAAJ&hl=en">Qunying Song</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -144,7 +144,7 @@ author_profile: true
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><img src="/images/canvlms-savant-framework.png" alt="Can VLMs Unlock Semantic Anomaly Detection framework" /></div>
+  <div class="pub-thumb"><img src="/images/thumb/canvlms-savant-framework.jpg" data-full="/images/canvlms-savant-framework.png" alt="Can VLMs Unlock Semantic Anomaly Detection framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2510.18034">Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning</a></div>
     <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, David Pop, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -154,7 +154,7 @@ author_profile: true
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><img src="/images/nurisk-framework.png" alt="NuRisk framework" /></div>
+  <div class="pub-thumb"><img src="/images/thumb/nurisk-framework.jpg" data-full="/images/nurisk-framework.png" alt="NuRisk framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2509.25944">NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving</a></div>
     <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -164,7 +164,25 @@ author_profile: true
 </div>
 
 <div class="pub">
-  <div class="pub-thumb"><img src="/images/IEEE-ITSC-thumbnail.jpg" alt="IEEE ITSC scenarios" /></div>
+  <div class="pub-thumb"><div style="width:180px;height:120px;display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--border);border-radius:4px;background:var(--surface);color:var(--muted);text-align:center;line-height:1.3;padding:6px;"><span style="font-size:0.82rem;font-weight:700;">Whole-Body VLA</span><span style="font-size:0.7rem;color:var(--faint);margin-top:3px;">German Robotics Conf. 2026</span></div></div>
+  <div class="pub-body">
+    <div class="pub-title">Towards Whole-Body VLA: A Scalable Data Collection Framework for Quadrupedal Mobile Manipulators</div>
+    <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
+    <div class="pub-venue">2nd German Robotics Conference (GRC), 2026</div>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-thumb"><div style="width:180px;height:120px;display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--border);border-radius:4px;background:var(--surface);color:var(--muted);text-align:center;line-height:1.3;padding:6px;"><span style="font-size:0.82rem;font-weight:700;">Warnless</span><span style="font-size:0.7rem;color:var(--faint);margin-top:3px;">DeepTest 2026 Tool Competition</span></div></div>
+  <div class="pub-body">
+    <div class="pub-title">Warnless at the DeepTest 2026 Tool Competition</div>
+    <div class="pub-authors"><a href="https://scholar.google.com/citations?user=xRb7Ir4AAAAJ&hl=en">Qunying Song</a>, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, <a href="http://www0.cs.ucl.ac.uk/staff/f.sarro/">Federica Sarro</a></div>
+    <div class="pub-venue">7th IEEE/ACM International Workshop on Deep Learning for Testing (DeepTest), 2026</div>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-thumb"><img src="/images/thumb/IEEE-ITSC-thumbnail.jpg" data-full="/images/IEEE-ITSC-thumbnail.jpg" alt="IEEE ITSC scenarios" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2502.02145">From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios</a></div>
     <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/korbinian-moller/">Korbinian Moller</a>, <a href="https://www.professoren.tum.de/alanwar-amr">Amr Alanwar</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>

@@ -25,6 +25,8 @@ redirect_from:
   .cv-entry .when { flex-basis:auto; }
   .cv-skills .k { min-width:auto; display:block; }
 }
+.cv-pdf { width:100%; height:85vh; min-height:640px; border:1px solid var(--border); border-radius:8px; background:var(--surface); }
+@media (max-width:600px){ .cv-pdf{ height:70vh; min-height:460px; } }
 </style>
 
 ## Education
@@ -154,3 +156,14 @@ redirect_from:
 ## Hobbies
 
 Photography · Skateboarding · Swimming · Skiing
+
+
+---
+
+## CV in PDF
+
+<a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" style="margin:0.2em 0 1em;">⬇ Download CV (PDF)</a>
+
+<object data="{{ base_path }}/files/cv.pdf" type="application/pdf" class="cv-pdf" aria-label="Curriculum Vitae — PDF preview">
+  <p style="padding:1em; color:var(--muted);">Your browser can’t display the embedded PDF. <a href="{{ base_path }}/files/cv.pdf">Download the CV (PDF)</a> instead.</p>
+</object>

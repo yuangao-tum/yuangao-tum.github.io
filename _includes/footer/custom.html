@@ -55,13 +55,13 @@
     if (document.readyState !== 'loading') tag(); else document.addEventListener('DOMContentLoaded', tag);
     document.addEventListener('click', function (e) {
       var t = e.target;
-      if (t && t.matches && t.matches(SEL)) { e.preventDefault(); open(t.currentSrc || t.src, t.alt); }
+      if (t && t.matches && t.matches(SEL)) { e.preventDefault(); open(t.getAttribute('data-full') || t.currentSrc || t.src, t.alt); }
     });
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') { close(); return; }
       var a = document.activeElement;
       if ((e.key === 'Enter' || e.key === ' ') && a && a.matches && a.matches(SEL)) {
-        e.preventDefault(); open(a.currentSrc || a.src, a.alt);
+        e.preventDefault(); open(a.getAttribute('data-full') || a.currentSrc || a.src, a.alt);
       }
     });
   })();
