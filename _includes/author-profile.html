@@ -25,6 +25,9 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.homepage %}
+        <li><a href="{{ author.homepage }}"><i class="fas fa-fw fa-university" aria-hidden="true"></i> TUM AVS Page</a></li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -66,6 +69,9 @@
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      {% endif %}
+      {% if author.huggingface %}
+        <li><a href="{{ author.huggingface }}"><span class="fa-fw" style="font-style:normal" aria-hidden="true">🤗</span> Hugging Face</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>

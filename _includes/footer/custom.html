@@ -11,4 +11,59 @@
     });
   })();
 </script>
+<script>
+  // Lightbox: click (or Enter/Space on) any thumbnail to view it full-size.
+  (function () {
+    var SEL = '.pub-thumb img, .pub-hl-thumb img, .teach-materials img';
+    var overlay, imgEl, capEl, lastFocus;
+    function build() {
+      overlay = document.createElement('div');
+      overlay.className = 'lb-overlay';
+      overlay.setAttribute('role', 'dialog');
+      overlay.setAttribute('aria-modal', 'true');
+      overlay.innerHTML = '<button class="lb-close" type="button" aria-label="Close">×</button>' +
+        '<figure class="lb-fig"><img alt=""><figcaption class="lb-cap"></figcaption></figure>';
+      document.body.appendChild(overlay);
+      imgEl = overlay.querySelector('.lb-fig img');
+      capEl = overlay.querySelector('.lb-cap');
+      overlay.addEventListener('click', function (e) {
+        if (e.target === overlay || e.target.classList.contains('lb-close')) close();
+      });
+    }
+    function open(src, alt) {
+      if (!src) return;
+      if (!overlay) build();
+      lastFocus = document.activeElement;
+      imgEl.src = src; imgEl.alt = alt || '';
+      capEl.textContent = alt || ''; capEl.style.display = alt ? '' : 'none';
+      overlay.classList.add('open');
+      document.body.style.overflow = 'hidden';
+      overlay.querySelector('.lb-close').focus();
+    }
+    function close() {
+      if (!overlay) return;
+      overlay.classList.remove('open');
+      imgEl.src = '';
+      document.body.style.overflow = '';
+      if (lastFocus && lastFocus.focus) lastFocus.focus();
+    }
+    function tag() {
+      Array.prototype.forEach.call(document.querySelectorAll(SEL), function (im) {
+        if (!im.hasAttribute('tabindex')) { im.setAttribute('tabindex', '0'); im.setAttribute('role', 'button'); }
+      });
+    }
+    if (document.readyState !== 'loading') tag(); else document.addEventListener('DOMContentLoaded', tag);
+    document.addEventListener('click', function (e) {
+      var t = e.target;
+      if (t && t.matches && t.matches(SEL)) { e.preventDefault(); open(t.currentSrc || t.src, t.alt); }
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') { close(); return; }
+      var a = document.activeElement;
+      if ((e.key === 'Enter' || e.key === ' ') && a && a.matches && a.matches(SEL)) {
+        e.preventDefault(); open(a.currentSrc || a.src, a.alt);
+      }
+    });
+  })();
+</script>
 <!-- end custom footer snippets -->

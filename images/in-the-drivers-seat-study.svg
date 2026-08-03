@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" font-family="'Helvetica Neue',Arial,sans-serif">
+  <!-- frame -->
+  <rect x="0.5" y="0.5" width="959" height="359" rx="10" fill="#ffffff" stroke="#e2e8f1"/>
+
+  <!-- title -->
+  <text x="26" y="40" font-family="Georgia,serif" font-size="24" font-weight="700" fill="#1a2230">In the Driver&#39;s Seat</text>
+  <text x="27" y="62" font-size="13.5" fill="#5a6576">A multi-company study on the reality of ADS testing</text>
+
+  <!-- stat chips -->
+  <g font-size="12.5" font-weight="700">
+    <rect x="612" y="24" width="98" height="26" rx="13" fill="#e7f0f9"/><text x="661" y="41" text-anchor="middle" fill="#2f6fb2">9 experts</text>
+    <rect x="718" y="24" width="112" height="26" rx="13" fill="#e7f0f9"/><text x="774" y="41" text-anchor="middle" fill="#2f6fb2">9 companies</text>
+    <rect x="838" y="24" width="100" height="26" rx="13" fill="#e7f0f9"/><text x="888" y="41" text-anchor="middle" fill="#2f6fb2">6 countries</text>
+  </g>
+
+  <!-- map panel -->
+  <rect x="190" y="86" width="560" height="250" rx="8" fill="#f5f9fd" stroke="#e2e8f1"/>
+  <!-- faint region hints: Europe (left) and East Asia (right) -->
+  <ellipse cx="292" cy="176" rx="78" ry="58" fill="#e5edf7"/>
+  <ellipse cx="662" cy="272" rx="96" ry="52" fill="#e5edf7"/>
+  <!-- graticule -->
+  <g stroke="#e3ecf5" stroke-width="1">
+    <line x1="246" y1="86" x2="246" y2="336"/><line x1="302" y1="86" x2="302" y2="336"/>
+    <line x1="358" y1="86" x2="358" y2="336"/><line x1="414" y1="86" x2="414" y2="336"/>
+    <line x1="470" y1="86" x2="470" y2="336"/><line x1="526" y1="86" x2="526" y2="336"/>
+    <line x1="582" y1="86" x2="582" y2="336"/><line x1="638" y1="86" x2="638" y2="336"/>
+    <line x1="694" y1="86" x2="694" y2="336"/>
+    <line x1="190" y1="136" x2="750" y2="136"/><line x1="190" y1="186" x2="750" y2="186"/>
+    <line x1="190" y1="236" x2="750" y2="236"/><line x1="190" y1="286" x2="750" y2="286"/>
+  </g>
+
+  <!-- leader lines -->
+  <g stroke="#b9c6d6" stroke-width="1.2">
+    <line x1="150" y1="118" x2="318" y2="142"/>
+    <line x1="150" y1="190" x2="264" y2="175"/>
+    <line x1="150" y1="236" x2="302" y2="192"/>
+    <line x1="150" y1="282" x2="284" y2="193"/>
+    <line x1="778" y1="146" x2="622" y2="269"/>
+    <line x1="778" y1="234" x2="712" y2="275"/>
+  </g>
+
+  <!-- pins -->
+  <g fill="#2f6fb2" stroke="#ffffff" stroke-width="2">
+    <circle cx="318" cy="142" r="9"/>
+    <circle cx="264" cy="175" r="6"/>
+    <circle cx="302" cy="192" r="6"/>
+    <circle cx="284" cy="193" r="6"/>
+    <circle cx="622" cy="269" r="10"/>
+    <circle cx="712" cy="275" r="6"/>
+  </g>
+  <g font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="318" y="146">2</text>
+    <text x="622" y="273">3</text>
+  </g>
+
+  <!-- LEFT labels (Europe) -->
+  <g font-size="12" fill="#48525f">
+    <text x="18" y="112" font-size="13.5" font-weight="700" fill="#1a2230">Sweden</text>
+    <text x="18" y="130">System Analyst &#183; 9 yrs</text>
+    <text x="18" y="147">Researcher &#183; 10 yrs</text>
+
+    <text x="18" y="184" font-size="13.5" font-weight="700" fill="#1a2230">United Kingdom</text>
+    <text x="18" y="202">Senior Engineer &#183; 6 yrs</text>
+
+    <text x="18" y="230" font-size="13.5" font-weight="700" fill="#1a2230">Germany</text>
+    <text x="18" y="248">System Tester &#183; 2 yrs</text>
+
+    <text x="18" y="276" font-size="13.5" font-weight="700" fill="#1a2230">Belgium</text>
+    <text x="18" y="294">Engineering Manager &#183; 10 yrs</text>
+  </g>
+
+  <!-- RIGHT labels (Asia) -->
+  <g font-size="12" fill="#48525f">
+    <text x="782" y="140" font-size="13.5" font-weight="700" fill="#1a2230">China</text>
+    <text x="782" y="158">Chief Engineer &#183; 13 yrs</text>
+    <text x="782" y="175">System Tester &#183; 14 yrs</text>
+    <text x="782" y="192">Product Engineer &#183; 4 yrs</text>
+
+    <text x="782" y="228" font-size="13.5" font-weight="700" fill="#1a2230">Japan</text>
+    <text x="782" y="246">Managing Director &#183; 10 yrs</text>
+  </g>
+</svg>

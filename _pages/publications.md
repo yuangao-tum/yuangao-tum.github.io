@@ -43,12 +43,40 @@ author_profile: true
 }
 </style>
 
+## Preprints
+
+<div class="pub-list">
+
+<div class="pub">
+  <div class="pub-thumb"><img src="/images/in-the-drivers-seat-study.svg" alt="In the Driver's Seat — study overview: 9 experts, 9 companies, 6 countries" /></div>
+  <div class="pub-body">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2607.15820">In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing</a></div>
+    <div class="pub-authors"><a href="https://scholar.google.com/citations?user=xRb7Ir4AAAAJ&hl=en">Qunying Song</a>, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a>, <a href="https://scholar.google.com/citations?user=xvo0RJcAAAAJ&hl=en">Dietmar Pfahl</a>, <a href="https://www.kcl.ac.uk/people/mohammad-reza-mousavi">Mohammad Reza Mousavi</a>, <a href="http://www0.cs.ucl.ac.uk/staff/f.sarro/">Federica Sarro</a></div>
+    <div class="pub-venue">arXiv preprint, 2026</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2607.15820">arXiv</a> | <a href="https://arxiv.org/pdf/2607.15820">Full Text (PDF)</a></div>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-thumb"><img src="https://sgtp-racing.github.io/materials/teaser/teaser.png" alt="SGTP: game-theoretic racing planner teaser" /></div>
+  <div class="pub-body">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2607.25388">SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Vehicle Autonomous Racing</a></div>
+    <div class="pub-authors"><a href="https://zhouhengli.github.io/">Zhouheng Li</a>, <a href="https://scholar.google.com/citations?user=0NkpMvcAAAAJ&hl=zh-CN">Fangguo Zhao</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.linkedin.com/in/baha-zarrouki/?locale=de_DE">Baha Zarrouki</a>, <span class="pub-me">Yuan Gao</span>, <a href="https://scholar.google.com/citations?user=aD0rPuYAAAAJ&hl=zh-CN">Zitong Shan</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a>, <a href="https://lvchen.wixsite.com/automan">Chen Lv</a>, <a href="https://person.zju.edu.cn/en/leighxie">Lei Xie</a></div>
+    <div class="pub-venue">arXiv preprint, 2026</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2607.25388">arXiv</a> | <a href="https://arxiv.org/pdf/2607.25388">Full Text (PDF)</a> | <a href="https://github.com/zhouhengli/SGTP-Racer">GitHub Repository</a> | <a href="https://sgtp-racing.github.io/">Project Homepage</a></div>
+  </div>
+</div>
+
+</div>
+
+---
+
 ## Journal Papers
 
 <div class="pub-list">
 
 <div class="pub">
-  <div class="pub-thumb"><img src="https://raw.githubusercontent.com/TUM-AVS/FM-AD-Survey/main/Assets/FMs.png" alt="Foundation models taxonomy" /></div>
+  <div class="pub-thumb"><img src="https://github.com/TUM-AVS/FM-AD-Survey/raw/main/Assets/Sec2_FMs.png" alt="Foundation models taxonomy" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2506.11526">Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis</a></div>
     <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/korbinian-moller/">Korbinian Moller</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/roberto-brusnicki/">Roberto Brusnicki</a>, <a href="https://www.linkedin.com/in/baha-zarrouki/?locale=de_DE">Baha Zarrouki</a>, <a href="https://publications.ait.ac.at/en/persons/alessio-gambi/">Alessio Gambi</a>, <a href="https://sites.google.com/view/jantotz">Jan Frederik Totz</a>, <a href="https://www.linkedin.com/in/kai-storms/?originalSubdomain=de">Kai Storms</a>, <a href="https://www.fzd.tu-darmstadt.de/fzd/team_fzd/team_details_219264.en.jsp">Steven Peters</a>, <a href="https://tsigalko18.github.io/">Andrea Stocco</a>, <a href="https://www.unibw.de/cas/team/bassam-alrifaee">Bassam Alrifaee</a>, <a href="https://stanfordasl.github.io//people/prof-marco-pavone/">Marco Pavone</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
@@ -89,7 +117,7 @@ author_profile: true
   <div class="pub-thumb"><img src="/images/target-bench-framework.jpeg" alt="Target-Bench framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2511.17792">Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?</a></div>
-    <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, Yuyu Zhao, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/en/avs/team/marvin-seegert/">Marvin Seegert</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Schäfer</a>, Haotong Qin, Wei Li, Luigi Palmieri, <a href="https://www.mos.ed.tum.de/en/avs/team/felix-jahncke/">Felix Jahncke</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
+    <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/dingrui-wang/">Dingrui Wang</a>, Zhihao Liang, Hongyuan Ye, Zhexiao Sun, Zhaowei Lu, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, Yuyu Zhao, <span class="pub-me">Yuan Gao</span>, <a href="https://www.mos.ed.tum.de/en/avs/team/marvin-seegert/">Marvin Seegert</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Schäfer</a>, <a href="https://htqin.github.io/">Haotong Qin</a>, Wei Li, <a href="https://palmieri.github.io/">Luigi Palmieri</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/felix-jahncke/">Felix Jahncke</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
     <div class="pub-venue">European Conference on Computer Vision (ECCV), 2026</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2511.17792">arXiv</a> | <a href="https://arxiv.org/pdf/2511.17792">Full Text (PDF)</a> | <a href="https://github.com/TUM-AVS/target-bench">GitHub Repository</a> | <a href="https://target-bench.github.io/">Project Homepage</a> | <a href="https://huggingface.co/target-bench">Dataset</a></div>
   </div>
