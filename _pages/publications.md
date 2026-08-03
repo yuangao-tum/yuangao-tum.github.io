@@ -67,6 +67,16 @@ author_profile: true
   </div>
 </div>
 
+<div class="pub">
+  <div class="pub-thumb"><img src="https://anonymous-paper-2026.github.io/StyleVLA/figure/Framework-1.png" alt="StyleVLA framework" /></div>
+  <div class="pub-body">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2603.09482">StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving</a></div>
+    <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, Dengyuan Hua, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Rasmus Schäfer</a>, <a href="https://www.mos.ed.tum.de/avs/team/korbinian-moller/">Korbinian Moller</a>, <a href="https://www.researchgate.net/profile/Lin-Li-230">Lin Li</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
+    <div class="pub-venue">arXiv preprint, 2026</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2603.09482">arXiv</a> | <a href="https://arxiv.org/pdf/2603.09482">Full Text (PDF)</a> | <a href="https://anonymous-paper-2026.github.io/StyleVLA/">Project Homepage</a></div>
+  </div>
+</div>
+
 </div>
 
 ---
