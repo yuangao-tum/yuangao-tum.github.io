@@ -116,6 +116,16 @@ author_profile: true
 <div class="pub-list">
 
 <div class="pub">
+  <div class="pub-thumb"><span class="pub-badge">EMNLP'26</span><video loop autoplay muted playsinline src="/images/plannerforge-demo.mp4"></video></div>
+  <div class="pub-body">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2609.08965">PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving</a></div>
+    <div class="pub-authors"><span class="pub-me">Yuan Gao*</span>, <a href="https://www.linkedin.com/in/sebastian-mueller-097579225/">Sebastian Müller</a>, <a href="https://www.mos.ed.tum.de/avs/team/mattia-piccinini/">Mattia Piccinini</a>, <a href="https://www.linkedin.com/in/marc-kaufeld/">Marc Kaufeld</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/finn-schaefer/">Finn Rasmus Schäfer</a>, <a href="https://scholar.google.com/citations?user=xRb7Ir4AAAAJ&hl=en">Qunying Song</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
+    <div class="pub-venue">Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference, 2026</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2609.08965">arXiv</a> | <a href="https://arxiv.org/pdf/2609.08965">Full Text (PDF)</a> | <a href="https://github.com/TUM-AVS/PlannerForge">GitHub Repository</a> | <a href="https://tum-avs.github.io/PlannerForge/">Project Homepage</a> | <a href="https://huggingface.co/datasets/TUM-AVS/PlannerForge-Scenarios">Dataset</a></div>
+  </div>
+</div>
+
+<div class="pub">
   <div class="pub-thumb"><span class="pub-badge">ECCV'26</span><img src="/images/thumb/egodyn-bench-framework.jpg" data-full="/images/egodyn-bench-framework.png" alt="EgoDyn-Bench framework" /></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2604.22851">EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving</a></div>

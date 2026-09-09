@@ -17,9 +17,10 @@ Hello!  I am a Research Associate and Ph.D. candidate at the [Professorship of A
 
 ## News
 <ul style="list-style: none; padding-left: 0; margin-top: 0;">
-  <li style="margin-bottom: 6px;"><strong>2026-06:</strong> Our paper <a href="https://arxiv.org/abs/2604.22851"><em>EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving</em></a> was accepted at ECCV 2026. <a href="https://tum-avs.github.io/EgoDyn-Bench-Website/">[Project Page]</a> <span style="color:var(--muted);">(Co-author)</span> <span style="color:var(--flag); font-weight:bold;">[New!]</span></li>
-  <li style="margin-bottom: 6px;"><strong>2026-06:</strong> Our paper <a href="https://arxiv.org/abs/2511.17792"><em>Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?</em></a> was accepted at ECCV 2026. <span style="color:var(--muted);">(Co-author)</span> <span style="color:var(--flag); font-weight:bold;">[New!]</span></li>
-  <li style="margin-bottom: 6px;"><strong>2026-06:</strong> Our paper <a href="https://arxiv.org/abs/2607.14387"><em>Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving</em></a> was accepted at IEEE IROS 2026. <span style="color:var(--muted);">(First author)</span> <span style="color:var(--flag); font-weight:bold;">[New!]</span></li>
+  <li style="margin-bottom: 6px;"><strong>2026-09:</strong> Our paper <a href="https://arxiv.org/abs/2609.08965"><em>PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving</em></a> was accepted at EMNLP 2026 (Main Conference). <a href="https://tum-avs.github.io/PlannerForge/">[Project Page]</a> <span style="color:var(--muted);">(First author)</span> <span style="color:var(--flag); font-weight:bold;">[New!]</span></li>
+  <li style="margin-bottom: 6px;"><strong>2026-06:</strong> Our paper <a href="https://arxiv.org/abs/2604.22851"><em>EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving</em></a> was accepted at ECCV 2026. <a href="https://tum-avs.github.io/EgoDyn-Bench-Website/">[Project Page]</a> <span style="color:var(--muted);">(Co-author)</span></li>
+  <li style="margin-bottom: 6px;"><strong>2026-06:</strong> Our paper <a href="https://arxiv.org/abs/2511.17792"><em>Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?</em></a> was accepted at ECCV 2026. <span style="color:var(--muted);">(Co-author)</span></li>
+  <li style="margin-bottom: 6px;"><strong>2026-06:</strong> Our paper <a href="https://arxiv.org/abs/2607.14387"><em>Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving</em></a> was accepted at IEEE IROS 2026. <span style="color:var(--muted);">(First author)</span></li>
   <li style="margin-bottom: 6px;"><strong>2026-06:</strong> Attended IEEE ICRA 2026 in Vienna, Austria.</li>
   <li style="margin-bottom: 6px;"><strong>2026-05:</strong> Our paper <a href="https://arxiv.org/abs/2510.18034"><em>Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning</em></a> was accepted at IEEE ITSC 2026. <span style="color:var(--muted);">(Co-author)</span></li>  <li style="margin-bottom: 6px;"><strong>2025-12:</strong> Attended the <a href="https://ieee-itss-germany.org/activities/2025-gas/">2025 German Autonomy Summit (GAS)</a> in Munich, Germany.</li>
   <li style="margin-bottom: 6px;"><strong>2025-11:</strong> Visited the <a href="https://www.linkedin.com/company/australian-centre-for-robotics/posts/?feedView=all">Australian Centre for Robotics</a> at the University of Sydney with my colleague <a href="https://www.linkedin.com/in/marc-kaufeld/">Marc Kaufeld</a>.</li>
@@ -32,6 +33,21 @@ Hello!  I am a Research Associate and Ph.D. candidate at the [Professorship of A
 </ul>
 
 ## Publications — Highlights
+
+<div class="pub-hl">
+  <div class="pub-hl-media">
+    <span class="pub-hl-badge">EMNLP'26</span>
+    <span class="pub-hl-thumb"><video loop autoplay muted playsinline src="/images/plannerforge-demo.mp4"></video></span>
+  </div>
+  <div class="pub-hl-body">
+    <div class="pub-hl-title"><a href="https://arxiv.org/abs/2609.08965">PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving</a></div>
+    <div class="pub-hl-authors"><span class="me">Yuan Gao*</span>, Sebastian Müller, Mattia Piccinini, Marc Kaufeld, Yuchen Zhang, Finn Rasmus Schäfer, Qunying Song, Johannes Betz</div>
+    <div class="pub-hl-links"><a href="https://arxiv.org/pdf/2609.08965">PDF</a> · <a href="https://github.com/TUM-AVS/PlannerForge">Code</a> · <a href="https://tum-avs.github.io/PlannerForge/">Project</a> · <a href="https://huggingface.co/datasets/TUM-AVS/PlannerForge-Scenarios">Dataset</a></div>
+    <ul class="pub-hl-points">
+      <li>An <strong>LLM-agent framework</strong> that unifies the full <strong>scenario-based testing</strong> pipeline for autonomous-driving motion planners, adding <strong>ADS Enhancement</strong> and <strong>ADS Benchmarking</strong> stages.</li>
+    </ul>
+  </div>
+</div>
 
 <div class="pub-hl">
   <div class="pub-hl-media">
