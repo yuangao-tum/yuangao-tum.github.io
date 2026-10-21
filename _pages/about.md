@@ -38,6 +38,21 @@ Hello!  I am a Research Associate and Ph.D. candidate at the [Professorship of A
 
 <div class="pub-hl">
   <div class="pub-hl-media">
+    <span class="pub-hl-badge">WACV'27</span>
+    <span class="pub-hl-thumb"><img src="/images/thumb/vola-qualitative.jpg" data-full="/images/vola-qualitative.jpg" alt="VOLA qualitative comparison of drivability and vulnerability maps" /></span>
+  </div>
+  <div class="pub-hl-body">
+    <div class="pub-hl-title"><a href="https://arxiv.org/abs/2608.11777">VOLA: Improving Open-World Driving by VLM-Based Semantic Attribute Prediction</a></div>
+    <div class="pub-hl-authors">Yuchen Zhang, <span class="me">Yuan Gao</span>, Sebastian Schmidt, Johannes Betz</div>
+    <div class="pub-hl-links"><a href="https://arxiv.org/pdf/2608.11777">PDF</a></div>
+    <ul class="pub-hl-points">
+      <li>Predicts dense, <strong>action-relevant attributes</strong> (<strong>drivability</strong> and <strong>vulnerability</strong>) from <strong>VLM image tokens</strong>, improving transfer to <strong>open-world anomalies</strong> unseen in training.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="pub-hl">
+  <div class="pub-hl-media">
     <span class="pub-hl-badge">EMNLP'26</span>
     <span class="pub-hl-thumb"><video loop autoplay muted playsinline src="/images/plannerforge-demo.mp4"></video></span>
   </div>
