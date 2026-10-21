@@ -28,6 +28,12 @@ author_profile: true
 
 <div class="teach-list">
 <div class="teach-term">
+  <div class="term">Sep 2026</div>
+  <div class="body">
+    <div class="teach-course"><strong>IEEE IROS 2026</strong>, Pittsburgh, USA — presented <em>Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving</em>.</div>
+  </div>
+</div>
+<div class="teach-term">
   <div class="term">Jun 2026</div>
   <div class="body">
     <div class="teach-course"><strong>IEEE ICRA 2026</strong>, Vienna, Austria — presented <em>NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment</em>.</div>
@@ -50,6 +56,12 @@ author_profile: true
 ## Teaching Assistant
 
 <div class="teach-list">
+<div class="teach-term">
+  <div class="term">WS 2026</div>
+  <div class="body">
+    <div class="teach-course"><a href="https://www.mos.ed.tum.de/en/avs/teaching/f1tenth-autonomous-driving-hands-on/">F1TENTH: Autonomous Driving Hands-on</a> <span class="role">— Practical Course</span><span class="lang">English</span></div>
+  </div>
+</div>
 <div class="teach-term">
   <div class="term">WS 2025</div>
   <div class="body">

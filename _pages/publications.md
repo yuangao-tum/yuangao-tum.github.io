@@ -116,6 +116,16 @@ author_profile: true
 <div class="pub-list">
 
 <div class="pub">
+  <div class="pub-thumb"><span class="pub-badge">WACV'27</span><img src="/images/thumb/vola-qualitative.jpg" data-full="/images/vola-qualitative.jpg" alt="VOLA qualitative comparison of drivability and vulnerability maps" /></div>
+  <div class="pub-body">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2608.11777">VOLA: Improving Open-World Driving by VLM-Based Semantic Attribute Prediction</a></div>
+    <div class="pub-authors"><a href="https://www.mos.ed.tum.de/en/avs/team/yuchen-zhang/">Yuchen Zhang</a>, <a href="https://www.mos.ed.tum.de/en/avs/team/yuan-gao/"><span class="pub-me">Yuan Gao</span></a>, <a href="https://scholar.google.com/citations?user=fWCpyNcAAAAJ&hl=de">Sebastian Schmidt</a>, <a href="https://www.mos.ed.tum.de/avs/team/prof-dr-ing-johannes-betz/">Johannes Betz</a></div>
+    <div class="pub-venue">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2608.11777">arXiv</a> | <a href="https://arxiv.org/pdf/2608.11777">Full Text (PDF)</a></div>
+  </div>
+</div>
+
+<div class="pub">
   <div class="pub-thumb"><span class="pub-badge">EMNLP'26</span><video loop autoplay muted playsinline src="/images/plannerforge-demo.mp4"></video></div>
   <div class="pub-body">
     <div class="pub-title"><a href="https://arxiv.org/abs/2609.08965">PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving</a></div>
